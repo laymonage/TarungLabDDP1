@@ -1,8 +1,9 @@
-# Program gambar bentuk anak tangga
+'''
+Program gambar bentuk anak tangga
 
-# Menggambar 3 buah anak tangga
-# dengan panjang anak tangga berdasarkan
-# input dari user.
+Menggambar 3 buah anak tangga dengan panjang anak tangga berdasarkan input dari
+user. Penggambaran dilakukan menggunakan Turtle Graphics.
+'''
 
 # Inisialisasi
 # Mengimpor modul turtle

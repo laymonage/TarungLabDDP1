@@ -58,7 +58,7 @@ turtle.exitonclick()
    From that you can calculate how much to turn (exterior angle):
    `180-180*(n-2)/n` = `360/n`
 
-4. Modify the previos program to draw a blue regular polygon according to
+4. Modify the previous program to draw a blue regular polygon according to
    user's input:
 
    1. Prompt the user to input the number of sides and store the string in a
@@ -69,13 +69,11 @@ turtle.exitonclick()
       variable.
    3. Using for loop, draw a blue regular polygon of given number of sides.
       Each side of the polygon has a length as determined by the user's input.
-   4. Save your work (source code) to a file:
-      `<your_name>_<NPM>_lab01.py`, such as
-      `taylor_swift_1706837915_lab01.py`.
-      Submit your source code file using the submit link at SCeLE.
 
-That's all for today. Happy programming! `Met ngoding!
+That's all for today. Happy programming! 'Met ngoding!
 
 L. Y. Stefanus
 
-P.S. : Taken from lab01_ddp2017.pdf (Tutorial Lab 1 DDP1 -- 30 August 2017)
+---
+
+Taken from `lab01_ddp2017.pdf` (Tutorial Lab 1 DDP1 F -- 30 August 2017)
