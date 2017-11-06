@@ -52,4 +52,4 @@ L. Y. Stefanus
 
 ---
 
-Taken from `lab03_ddp2017.pdf` (Tutorial Lab 3 DDP1 F -- 13 September 2017)
+Taken from `lab03_fprog2017.pdf` (Tutorial Lab 3 DDP1 F -- 13 September 2017)
