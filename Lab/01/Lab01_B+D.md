@@ -1,4 +1,4 @@
-# Soal Tutorial  
+# Soal Tutorial
 
 ## Pertarungan #1
 ### Turtle
@@ -76,13 +76,13 @@ memenuhi biaya pernikahan tersebut.
 
 #### Format masukan
 Masukan berupa biaya pernikahan. Biaya pernikahan dijamin habis dibagi
-Rp500.000 dan merupakan bilangan non-negatif.  
+Rp500.000 dan merupakan bilangan non-negatif.
 
 #### Format keluaran
 Keluaran berupa hasil prediksi waktu untuk dapat memenuhi biaya pernikahan dan
 harus dalam format:
 > Anda harus bekerja selama **x** tahun **y** bulan **z** minggu **a** hari
-untuk memenuhi biaya pernikahan.  
+untuk memenuhi biaya pernikahan.
 
 **x**, **y**, **z**, dan a adalah elemen bilangan bulat non-negatif yang
 merupakan hasil prediksi waktu tahun, bulan, minggu, dan hari secara urut

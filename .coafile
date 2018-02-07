@@ -1,0 +1,5 @@
+[all]
+bears = SpaceConsistencyBear, LineLengthBear
+files = **
+ignore = .git/**, **.png
+use_spaces = True

@@ -2,7 +2,7 @@
 
 ## Task Description
 
-1. Your program should prompt for a **positive integer** in **decimal 
+1. Your program should prompt for a **positive integer** in **decimal
    representation**, convert the integer to a **hexadecimal number string** and
    print it.
 2. Then your program should prompt for a hexadecimal number string, convert the

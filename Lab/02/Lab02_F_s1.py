@@ -21,7 +21,7 @@ b = float(turtle.textinput("Lab 02", "Value of blue [0.0 - 1.0]"))
 
 turtle.color(r, g, b)       # Assign the user specified color to turtle
 
-deg = 360 / sides	        # Calculate the turn
+deg = 360 / sides           # Calculate the turn
 length = 400 / sides
 turtle.showturtle()
 turtle.down()

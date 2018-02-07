@@ -29,7 +29,7 @@ Dewa Cenna memberikan contoh translasi dari ajarannya sebagai berikut:
 #### Output 1:
 > Makna duniawi: B
 
-#### Input 2:  
+#### Input 2:
 > Masukkan kalimat surgawi: **15**
 
 #### Output 2:

@@ -131,7 +131,7 @@ turtle...................
 In order to complete the following program, you should write a sequence of
 *simultaneous assignment* statements of the form `x, y = y, x` to sort
 (mengurutkan) the values referenced by the variables **number1, number2,
-number3, number4, number5** so that when printed their values are in sorted 
+number3, number4, number5** so that when printed their values are in sorted
 order from the smallest to the largest. Three (3) simultaneous assignments
 will be enough.
 

@@ -5,8 +5,8 @@
 Write a function `put_number()` that takes a sentence (a string) and a number
 (an int) as arguments and then returns the string obtained from concatenating
 the number as a string in front of the sentence. Assume that the number, which
-is ≤ 999, occupies 5 spaces, including a point. If the number consists of less than
-three digits, add **zeros**. You have to use **format string**.
+is ≤ 999, occupies 5 spaces, including a point. If the number consists of less
+than three digits, add **zeros**. You have to use **format string**.
 
 For examples:
 ```
@@ -47,13 +47,13 @@ then the output file will contain:
 ```
 001. "Hello"
 002. -- Songwriters: ADELE ADKINS, GREGORY KURSTIN
-003. 
+003.
 004. Hello, it's me
 005. I was wondering if after all these years you'd like to meet
 006. To go over everything
 007. They say that time's supposed to heal ya
 008. But I ain't done much healing
-009. 
+009.
 010. Hello, can you hear me?
 011. I'm in California dreaming about who we used to be
 012. When we were younger and free
