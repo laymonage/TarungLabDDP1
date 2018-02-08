@@ -9,6 +9,7 @@ is ≤ 999, occupies 5 spaces, including a point. If the number consists of less
 than three digits, add **zeros**. You have to use **format string**.
 
 For examples:
+
 ```
 >>> put_number(12, 'When we were younger and free')
 '012. When we were younger and free'
@@ -23,12 +24,14 @@ Test your function in IDLE. If you have already gotten it right, then go to
 Part B where the function put_number() will be used.
 
 ## Part B: Processing a text file
+
 Construct a program for adding a line number to each line of an existing
 text-file and write the result to a new text file. You have to use the
 function `put_number()` from Part A. Each line number occupies 5 spaces. Your
 program prompts the user for an input file name and an output file name.
 
 For example, if the input file contains:
+
 ```
 "Hello"
 -- Songwriters: ADELE ADKINS, GREGORY KURSTIN
@@ -43,7 +46,9 @@ Hello, can you hear me?
 I'm in California dreaming about who we used to be
 When we were younger and free
 ```
+
 then the output file will contain:
+
 ```
 001. "Hello"
 002. -- Songwriters: ADELE ADKINS, GREGORY KURSTIN
@@ -63,6 +68,6 @@ Happy programming! 'Met ngoding!
 
 L. Y. Stefanus
 
---
+---
 
 Taken from `lab04_fprog2017.pdf` (Tutorial Lab 4 DDP1 F -- 27 September 2017)

@@ -3,6 +3,7 @@
 ## Bagian A
 
 You will use Turtle graphics like in Lab 01.
+
 1. Use a `for` statement to draw a regular polygon given the number of sides
    provided by the user.
 2. Add the capability to your program to fill polygons with a color indicated
@@ -10,6 +11,7 @@ You will use Turtle graphics like in Lab 01.
    user.
 
 Your program will work as follows:
+
 1. Prompt the user for the number of sides of a regular polygon.
 2. Prompt the user for the color components: R(red component), G(green
    component), B(blue component). Make a color from these three components.
@@ -19,6 +21,7 @@ Your program will work as follows:
    and fill it with the given color.
 
 ### First, try it!
+
 The first thing you should do is try out some of the turtle commands by just
 typing them in the IDLE window. You can get a much better feel for how the
 whole thing works by just trying it.
@@ -45,7 +48,7 @@ Your program will read in color values from the user and then use the methods
 in the turtle module to draw the polygons filled with the color indicated.
 There are many ways to create a color but a common one used in computer
 graphics is the process of additive color (see
-http://en.wikipedia.org/wiki/Additive_color). Combining different amounts of
+<http://en.wikipedia.org/wiki/Additive_color>). Combining different amounts of
 `red`, `green` and `blue` can create most colors.
 
 For example, here is how to draw a yellow circle: 1 red + 1 green + 0 blue.

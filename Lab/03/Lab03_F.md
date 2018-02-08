@@ -9,6 +9,7 @@
    string into a regular decimal integer and print the result.
 
 Here is a simple interaction:
+
 ```
 >>>
 Lab 03
@@ -29,20 +30,24 @@ Press Enter to continue ...
 ```
 
 ## Hints
+
 How do we get a hexadecimal string from a positive decimal integer? The
 easiest method uses **integer division** by 16 on successive quotients and
 then collects the **remainders**. It is best illustrated by an example.
 Consider the decimal number 1564.
-*  1564 divided by 16 gives the quotient 97 and remainder 12 (which is `c` in
-   hexadecimal).
-*  97 divided by 16 gives the quotient 6 and remainder 1.
-*  6 divided by 16 gives the quotient 0 and remainder 6.
+
+- 1564 divided by 16 gives the quotient 97 and remainder 12 (which is `c` in
+  hexadecimal).
+- 97 divided by 16 gives the quotient 6 and remainder 1.
+- 6 divided by 16 gives the quotient 0 and remainder 6.
+
 **Stop** at reaching a quotient of 0. The hexadecimal string equivalent is
 given by concatenating the remainders, in reverse (so the last remainder is
 the most significant digit and the first is the least).
 In this example: "**61c**"
 
 ## Limitation
+
 You are **not** allowed to use the Python function calls: `int(..., 16)` or
 `hex(...)`.
 

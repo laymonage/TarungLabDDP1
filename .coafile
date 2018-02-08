@@ -3,3 +3,9 @@ bears = SpaceConsistencyBear, LineLengthBear
 files = **
 ignore = .git/**, **.png
 use_spaces = True
+
+[all.markdown]
+bears = MarkdownBear
+files = **.md
+list_indent = 1
+horizontal_rule = -

@@ -8,6 +8,7 @@ whole thing works by just trying it.
 
 1. Type the following program using the IDLE editor and save it in a file:
    `turtleSample01.py`
+
 [**WARNING: Do not save it in a file named turtle.py**]
 
 ```python

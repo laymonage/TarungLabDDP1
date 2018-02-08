@@ -1,6 +1,7 @@
 # Soal Tutorial
 
 ## PENEBUSAN DOSA BENNY
+
 ### “Gw pikir lu bisa empati Ben” - Dewa Cenna
 
 Pada zaman dahulu kala, Dewa Cenna memberikan tugas berat kepada Bapak Benny
@@ -24,35 +25,42 @@ bulat desimal).*
 Dewa Cenna memberikan contoh translasi dari ajarannya sebagai berikut:
 
 #### Input 1:
+
 > Masukkan kalimat surgawi: **1**
 
 #### Output 1:
+
 > Makna duniawi: B
 
 #### Input 2:
+
 > Masukkan kalimat surgawi: **15**
 
 #### Output 2:
+
 > Makna duniawi: BBBB
 
 #### Input 3:
+
 > Masukkan kalimat surgawi: **2730**
 
 #### Output 3:
+
 > Makna duniawi: BPBPBPBPBPBP
 
 *Karakter yang ditebalkan merupakan user input*
 
 Karena Dewa Cenna mengetahui batasan-batasan manusia, maka ia memberikan
 constraint sebagai berikut:
--   Dewa Cenna memberikan peringatan bahwa dalam proses penebusan dosa
-    harus menggunakan `if`, `else`, dan looping.
--   Dewa Cenna memastikan bahwa kalimat duniawi akan selalu terdiri dari
-    karakter "B" dan "P".
+
+- Dewa Cenna memberikan peringatan bahwa dalam proses penebusan dosa
+  harus menggunakan `if`, `else`, dan looping.
+- Dewa Cenna memastikan bahwa kalimat duniawi akan selalu terdiri dari
+  karakter "B" dan "P".
 
 **NN WP YE AH**
 
 ---
 
-Diambil dari `Lab02 Dasar-Dasar Pemrograman 1 Jumat.pdf` (Tutorial Lab 2 DDP1 D
--- 14 September 2017)
+Diambil dari `Lab02 Dasar-Dasar Pemrograman 1 Jumat.pdf`
+(Tutorial Lab 2 DDP1 D -- 14 September 2017)
