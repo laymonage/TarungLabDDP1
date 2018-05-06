@@ -21,16 +21,19 @@ secara manual.
 Dewa Cenna memberikan contoh translasi dari ajarannya sebagai berikut:
 
 #### Format Masukan
+
 Masukan berupa satu baris yang menunjukkan berapa banyak pergeseran ke arah
-kanan (0 <= K < 26) dan pesan yang telah dienkripsi (pesan yang telah
+kanan `(0 <= K < 26)` dan pesan yang telah dienkripsi (pesan yang telah
 dienkripsi dipastikan huruf kecil semua).
 
 Format masukan adalah sebagai berikut:
+
 ```
 K encrypted_text
 ```
 
 #### Format Keluaran
+
 Keluaran berupa satu baris yang menunjukkan pesan awal sebelum dienkripsi.
 
 ###### Hint #1
@@ -39,12 +42,14 @@ Keluaran berupa satu baris yang menunjukkan pesan awal sebelum dienkripsi.
 alfabet huruf kecil tanpa harus mengetikannya secara manual.</sup></sub>
 
 Contoh Input/Output (bagian input yang diketikkan oleh user **ditebalkan**)
+
 <pre>
 Masukkan operasi: <b>1 plf</b>
 Kalimat aslinya adalah: oke
 </pre>
 
 ###### Hint #2
+
 <sub><sup>Kamu dapat menggunakan sebuah method untuk memisahkan antara K dan
 kalimat yang sudah dienkripsi. Method apakah itu?</sup></sub>
 
@@ -62,6 +67,7 @@ Kalimat aslinya adalah: ddp easy peasy lemon squeezy
 <br>
 
 ### Soal Bonus (Yey... ada bonus!)
+
 Selain menggunakan teknik yang standar, kamu juga bisa memanfaatkan `chr()`
 dan `ord()` dalam program-mu. Cobalah buat teknik dekripsi Caesar cipher dengan
 memanfaatkan `chr()` dan `ord()`. Ketikkan program bonus-mu di dalam file yang
@@ -70,6 +76,7 @@ sama.
 <br>
 
 ### Penilaian
+
 **80%** Kebenaran (Program berjalan dan berhasil menyelesaikan uji kasus),  
 **10%** Kerapihan (Penamaan variabel jelas, mudah dibaca),  
 **05%** Dokumentasi (Dokumentasi jelas, comment di bagian-bagian yang penting),  
@@ -88,4 +95,4 @@ DAN HAPPY CODING 😊</strong></p>
 ---
 
 Diambil dari `Lab 3 DDP1 Lab Jumat.pdf` (Tutorial Lab 3 DDP1 B dan D
--- 22 September 2017)
+\-- 22 September 2017)

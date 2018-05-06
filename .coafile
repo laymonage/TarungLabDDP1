@@ -1,11 +1,20 @@
 [all]
-bears = SpaceConsistencyBear, LineLengthBear
+bears = SpaceConsistencyBear
 files = **
-ignore = .git/**, **.png
+ignore = .git/**, venv/**, **.png, **.md, **.orig
 use_spaces = True
 
-[all.markdown]
-bears = MarkdownBear
+[markdown]
+bears = SpaceConsistencyBear, LineLengthBear, MarkdownBear
 files = **.md
+use_spaces = True
+allow_trailing_whitespace = True
+max_line_length = 100
 list_indent = 1
 horizontal_rule = -
+
+[python]
+bears = LineLengthBear
+files = **.py
+ignore = venv/**
+max_line_length = 79
