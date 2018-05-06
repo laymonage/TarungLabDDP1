@@ -14,7 +14,8 @@ list_indent = 1
 horizontal_rule = -
 
 [python]
-bears = LineLengthBear
+bears = LineLengthBear, PyLintBear
 files = **.py
 ignore = venv/**
 max_line_length = 79
+pylint_cli_options = --disable=invalid-name,no-member

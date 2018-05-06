@@ -1,11 +1,13 @@
-# Program translasi kalimat surgawi ke kalimat duniawi
+'''
+Program translasi kalimat surgawi ke kalimat duniawi
 
-# Pada dasarnya, kalimat surgawi adalah suatu bilangan dalam basis 10
-# dan kalimat duniawi adalah representasi kalimat surgawi dalam basis 2,
-# namun huruf B dan P digunakan untuk menyatakan 1 dan 0 berturut-turut.
+Pada dasarnya, kalimat surgawi adalah suatu bilangan dalam basis 10
+dan kalimat duniawi adalah representasi kalimat surgawi dalam basis 2,
+namun huruf B dan P digunakan untuk menyatakan 1 dan 0 berturut-turut.
 
-# Program akan meminta input dalam kalimat surgawi, dan mengeluarkan
-# output berupa translasi kalimat surgawi ke kalimat duniawi.
+Program akan meminta input dalam kalimat surgawi, dan mengeluarkan
+output berupa translasi kalimat surgawi ke kalimat duniawi.
+'''
 
 
 # Meminta input dari user berupa kalimat surgawi

@@ -4,6 +4,9 @@ write the result to a new text file.
 '''
 
 def main():
+    '''
+    Main program
+    '''
     input_file = input("Enter your input text file: ")
     output_file = input("Enter your output text file: ")
     text = open(input_file)                 # Open file for read-only

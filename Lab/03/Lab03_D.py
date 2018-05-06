@@ -17,21 +17,21 @@ encrypted = rawinput.split(" ", 1)[1]
 # Inisialisasi pesan yang sudah didekripsi dengan string kosong
 decrypted = ""
 
-for i in range(0, len(encrypted)):
+for char in encrypted:
     # Jika spasi, tetap tulis
-    if encrypted[i] == " ":
-        decrypted += encrypted[i]
+    if char == " ":
+        decrypted += char
     # Jika huruf setelah digeser ke kiri dengan key ternyata lewat dari "a"
-    elif ord(encrypted[i]) - key < ord("a"):
+    elif ord(char) - key < ord("a"):
         # Ambil orde huruf yang sedang dicek, kemudian modulo dengan orde "a"
         # untuk mendapatkan indeks huruf dalam susunan alfabet (mulai dari 0).
         # Kurangi dengan key, kemudian modulo dengan orde "z" sehingga didapat
         # orde "z" dikurangi indeks huruf. Kemudian, tambahkan + 1 karena
         # indeks huruf tadi dimulai dari 0.
-        decrypted += chr((ord(encrypted[i]) % ord("a") - key) % ord("z") + 1)
+        decrypted += chr((ord(char) % ord("a") - key) % ord("z") + 1)
     # Jika orde dikurangi key tidak kurang dari orde "a" (normal)
     else:
-        decrypted += chr(ord(encrypted[i]) - key)
+        decrypted += chr(ord(char) - key)
 
 # Print hasil
 print("Kalimat aslinya adalah:", decrypted)

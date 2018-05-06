@@ -70,10 +70,10 @@ def main_bonus():
     list_soal = input("Masukkan 4 soal: ").split()
     skor = 0
 
-    for i in range(len(list_soal)):
-        cetak_pertanyaan(i + 1, list_soal[i])
+    for i, soal in enumerate(list_soal):
+        cetak_pertanyaan(i + 1, soal)
         jawaban = int(input("Jawab: "))
-        if cek_jawaban(jawaban, list_soal[i]):
+        if cek_jawaban(jawaban, soal):
             skor += 25
 
     print("Skor akhir: {}".format(skor))
