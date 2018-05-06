@@ -8,12 +8,12 @@ orang lain, apalagi jika mereka sedang membicarakan wanita idaman mereka,
 sehingga mereka menggunakan enkripsi pada pesan mereka. Suatu hari, Anda tidak
 sengaja mengetahui teknik enkripsi mereka, karena Anda menguping pembicaraan
 mereka. Mereka menggunakan teknik
-“[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)” dalam
+"[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)" dalam
 melakukan enkripsi pesan.
 
 Teknik enkripsi mereka adalah untuk setiap huruf pada pesan, dilakukan operasi:
-Diketahui K, maka lakukan pergeseran ke arah kanan sebesar K (Misal K = 1, “a”
-menjadi “b”, “j” menjadi “k”, dan “z” menjadi “a”).
+Diketahui K, maka lakukan pergeseran ke arah kanan sebesar K (Misal `K = 1`,
+`"a"` menjadi `"b"`, `"j"` menjadi `"k"`, dan `"z"` menjadi `"a"`).
 Anda sebagai orang yang ingin mengetahui pesan apa yang dikirimkan oleh Benny
 dan Ibnu mencoba untuk membuat program agar tidak perlu melakukan dekripsi
 secara manual.

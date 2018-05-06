@@ -2,7 +2,7 @@
 
 ## PENEBUSAN DOSA BENNY
 
-### “Gw pikir lu bisa empati Ben” - Dewa Cenna
+### "Gw pikir lu bisa empati Ben" - Dewa Cenna
 
 Pada zaman dahulu kala, Dewa Cenna memberikan tugas berat kepada Bapak Benny
 berupa melatih anak-anak surgawi untuk mempelajari transformasi bentuk aksara
@@ -18,8 +18,8 @@ memberikan tugas untuk mencari makna duniawi dari kalimat surgawi.
 
 *Hint: Dewa Cenna bersabda bahwa kalimat duniawi mengikuti struktur dan aturan
 penghitungan yang mirip dengan aksara biner. Kalimat duniawi terdiri dari
-dua karakter, “B” dan “P” di mana keduanya memiliki nilai dari ajaran-ajaran
-surgawi. “B” bernilai 1 dan “P” bernilai 0 (kalimat surgawi merupakan bilangan
+dua karakter, "B" dan "P" di mana keduanya memiliki nilai dari ajaran-ajaran
+surgawi. "B" bernilai 1 dan "P" bernilai 0 (kalimat surgawi merupakan bilangan
 bulat desimal).*
 
 Dewa Cenna memberikan contoh translasi dari ajarannya sebagai berikut:
