@@ -1,8 +1,8 @@
 # Soal Tutorial
 
-## PENEBUSAN DOSA BENNY
+## Penebusan Dosa Benny
 
-### "Gw pikir lu bisa empati Ben" - Dewa Cenna
+<h5>"<i>Gw pikir lu bisa empati Ben</i>" -Dewa Cenna</h5>
 
 Pada zaman dahulu kala, Dewa Cenna memberikan tugas berat kepada Bapak Benny
 berupa melatih anak-anak surgawi untuk mempelajari transformasi bentuk aksara
