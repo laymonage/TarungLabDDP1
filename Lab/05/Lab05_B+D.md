@@ -162,4 +162,4 @@ DAN HAPPY CODING 😊</strong></p>
 ---
 
 Diambil dari `Lab 5 DDP1 Lab Jumat.pdf` (Tutorial Lab 5 DDP1 B dan D
-\-- 29 September 2017)
+\-- 6 Oktober 2017)
