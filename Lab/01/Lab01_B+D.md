@@ -125,7 +125,12 @@ kursor tidak ke baris baru, gunakan:
 > Anda harus bekerja selama 1 tahun 0 bulan 0 minggu 0 hari untuk memenuhi
 > biaya pernikahan. **(BENAR)**
 
-SELAMAT MENGERJAKAN DAN HAPPY CODING 😊
+<br>
+
+<p style="text-align: center; font-size: 1.5em;"><strong>SELAMAT MENGERJAKAN
+DAN HAPPY CODING 😊</strong></p>
+
+<br>
 
 **AA - END - KT - ZZ**
 

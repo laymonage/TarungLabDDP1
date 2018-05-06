@@ -58,6 +58,8 @@ constraint sebagai berikut:
 - Dewa Cenna memastikan bahwa kalimat duniawi akan selalu terdiri dari
   karakter "B" dan "P".
 
+<br>
+
 **NN WP YE AH**
 
 ---
