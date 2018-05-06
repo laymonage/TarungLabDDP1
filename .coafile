@@ -18,4 +18,4 @@ bears = LineLengthBear, PyLintBear
 files = **.py
 ignore = venv/**
 max_line_length = 79
-pylint_cli_options = --disable=invalid-name,no-member
+pylint_cli_options = --disable=fixme,invalid-name,no-member
