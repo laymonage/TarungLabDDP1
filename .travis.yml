@@ -1,0 +1,7 @@
+language: generic
+services: docker
+script:
+  - touch .gitignore
+  - >
+    docker run --volume=$(pwd):/app --volume=/tmp/coala:/cache
+    --workdir=/app coala/base coala --ci
