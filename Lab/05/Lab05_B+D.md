@@ -36,7 +36,7 @@ Pada sesi lab kali ini, kamu akan diberikan template code oleh Benny, dan kamu
 diharapkan untuk melengkapi beberapa function yang sudah diberikan oleh Benny.
 Template code yang diberikan oleh Benny adalah sebagai berikut:
 
-```
+```python
 def cetak_pertanyaan(urutan, angka_biner):
     #lengkapi function cetak_pertanyaan
 
