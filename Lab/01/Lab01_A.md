@@ -35,10 +35,8 @@ t.penup()
 
 # Menutup turtle setelah di- click
 turtle.exitonclick()
-
-![persegi](image02.png)
-
 ```
+![persegi](image02.png)
 
 Benny sebagai sesama mahasiswa baru tidak ingin kalah dengan Ibnu. Ia pun berniat membuat
 bentuk yang lebih rumit dari Ibnu, yaitu bentuk segi empat . Sebagai mahasiswa Fasilkom UI
@@ -50,8 +48,6 @@ yang baik hati dan tidak sombong, Bantulah keinginan Benny!
 - Simpanlah file kalian dengan nama lab01_[nama kalian]_[npm].py
 
 Hint: Pahamilah program Ibnu untuk mengerjakan soal ini
-
----
 
 <br>
 
