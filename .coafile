@@ -7,6 +7,7 @@ use_spaces = True
 [markdown]
 bears = SpaceConsistencyBear, LineLengthBear, MarkdownBear
 files = **.md
+ignore = venv/**
 use_spaces = True
 allow_trailing_whitespace = True
 max_line_length = 100
