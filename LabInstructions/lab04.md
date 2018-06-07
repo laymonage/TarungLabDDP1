@@ -38,33 +38,20 @@ karakter-karakter yang ada di dalamnya. Untuk mengakses suatu karakter dalam
 suatu string, kita bisa menggunakan operator `[indeks]`, dengan argumen nilai
 `indeks` yang menyatakan posisi karakter dalam string (dimulai dari 0).  
 Untuk string dengan panjang `n`:
-<<<<<<< master
-  - Indeks non-negatif dari kiri ke kanan: `0`, `1`, `2`, `...` , `n-1`
-  - Indeks negatif dari kiri ke kanan: `-n`, `-n + 1`, `-n + 2`, `...`, `-1`
-=======
 
 - Indeks non-negatif dari kiri ke kanan: `0`, `1`, `2`, `...` , `n-1`
 - Indeks negatif dari kiri ke kanan: `-n`, `-n + 1`, `-n + 2`, `...`, `-1`
->>>>>>> master
 
 Lebih jauh lagi, kita bisa menggunakan operator `[]` untuk operasi *slicing*:
 mengakses subrangkaian. Argumennya serupa dengan fungsi range, yaitu:
 
 Bentuk umum: `[start:end:step]`
-<<<<<<< master
-  - `start`: nilai indeks dimulainya subrangkaian (inklusif, *default*: 0)
-  - `end`: nilai indeks sesudah akhir subrangkaian (eksklusif, *default*: nilai
-    indeks ujung rangkaian + 1)
-  - `step`: nilai *increment/decrement* untuk membentuk subrangkaian
-    (*default*: 1)
-=======
 
 - `start`: nilai indeks dimulainya subrangkaian (inklusif, *default*: 0)
 - `end`: nilai indeks sesudah akhir subrangkaian (eksklusif, *default*: nilai
   indeks ujung rangkaian + 1)
 - `step`: nilai *increment/decrement* untuk membentuk subrangkaian
   (*default*: 1)
->>>>>>> master
 
 Contoh:
 
