@@ -26,10 +26,10 @@ permainan dan menghitung jumlah coin yang didapatkan dari total ticket tersebut
 (diutamakan prioritas dari jenis coin yang terbesar Golden > Silver > Bronze).**
 
 Berikut adalah mesin permainan yang dimiliki oleh TIMEZONE :
-- Mesin permainan Bola Basket <tab><tab><tab> @Highest Score = 42 tickets 
-- Mesin permainan Bowling <tab><tab><tab> @Highest Score = 60 tickets
-- Mesin permainan Dino Duel <tab><tab><tab> @Highest Score = 87 tickets
-- Mesin permainan DanceDance Revolution <tab><tab><tab> @Highest Score = 103 tickets
+- Mesin permainan Bola Basket @Highest Score = 42 tickets 
+- Mesin permainan Bowling @Highest Score = 60 tickets
+- Mesin permainan Dino Duel @Highest Score = 87 tickets
+- Mesin permainan DanceDance Revolution @Highest Score = 103 tickets
 
 ### Test Case 1:
 #### Input:
@@ -43,8 +43,8 @@ Berikut adalah mesin permainan yang dimiliki oleh TIMEZONE :
 bahwa angka tersebut merupakan input dari user .
 
 #### Output:
->Fatih berhasil mengumpulkan sebanyak 8 Golden Coin, 3 Silver Coin dan 5 Bronze
-Coin.
+> Fatih berhasil mengumpulkan sebanyak 8 Golden Coin, 3 Silver Coin dan 5 Bronze
+> Coin.
 
 ### Test Case 2:
 #### Input:
@@ -57,7 +57,7 @@ Coin.
 #### Output:
 
 > Fatih berhasil mengumpulkan sebanyak 9 Golden Coin, 8 Silver Coin dan 6 Bronze
-  Coin.
+> Coin.
   
 ---
 ## HADIAH FATIH
@@ -85,7 +85,7 @@ dengan hadiah.
 
 #### Output:
 > Fatih berhasil mengumpulkan sebanyak 10 Golden Coin, 8 Silver Coin 
-  dan 3 Bronze Coin.\
+> dan 3 Bronze Coin.\
 > Anda tidak dapat menukarkan Golden Coin anda.\
 > Anda dapat menukarkan Silver Coin anda.\
 > Anda dapat menukarkan Bronze Coin anda.
@@ -101,7 +101,7 @@ dengan hadiah.
 #### Output:
 
 > Fatih berhasil mengumpulkan sebanyak 15 Golden Coin, 2 Silver Coin dan 0 Bronze
-Coin.\
+> Coin.\
 > Anda dapat menukarkan Golden Coin anda.\
 > Anda dapat menukarkan Silver Coin anda.\
 > Anda tidak memiliki Bronze Coin.
