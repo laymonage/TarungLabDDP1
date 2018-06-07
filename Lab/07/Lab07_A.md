@@ -30,11 +30,12 @@ Input diminta hingga End-Of-File.
 
 - TAMBAH \<nama>
     
-    Menambahkan seorang anak ke dalam tempat kursus.
-    > Output : “\<nama> berhasil ditambahkan”
+    Menambahkan seorang anak ke dalam tempat kursus.\
+    Output : 
+    > “\<nama> berhasil ditambahkan”
     
     Jika \<nama> sudah ada dalam daftar, maka cetak keluaran :
-    > Output : “\<nama> sudah ada”
+    > “\<nama> sudah ada”
 
 - \<nama1> \<nama2> BERTEMAN\
     Membuat \<nama1> dan \<nama2> berteman
@@ -43,15 +44,17 @@ Input diminta hingga End-Of-File.
     Membuat \<nama1> dan \<nama2> bersahabat
 
 - SAHABAT \<nama1> BUKAN \< nama2 >
-    Mencetak seluruh nama sahabat dari \<nama1> yang bukan sahabat dari \<nama2>
-    > Output : “\<nama1>, \<nama2>, … , \<namaN>”
+    Mencetak seluruh nama sahabat dari \<nama1> yang bukan sahabat dari \<nama2>\
+    Output : 
+    > “\<nama1>, \<nama2>, … , \<namaN>”
 
     dengan N merupakan jumlah sahabat dari \<nama> tersebut.\
     Jika tidak memiliki sahabat, tidak usah mencetak keluaran apapun.
 
 - TEMAN \<nama1> \<nama2>
-    Mencetak seluruh nama teman yang sama dari \<nama1> dan \<nama2>
-    > Output : “ Teman dari \<nama1> dan \<nama2> adalah \<nama1>, \<nama2>, …
+    Mencetak seluruh nama teman yang sama dari \<nama1> dan \<nama2>\
+    Output : 
+    > “ Teman dari \<nama1> dan \<nama2> adalah \<nama1>, \<nama2>, …
     \<namaN>”
 
     dengan N merupakan jumlah sahabat dari <nama> tersebut.\
