@@ -75,5 +75,5 @@ DAN HAPPY CODING 😊</strong></p>
 
 ---
 
-Diambil dari `Soal Tutorial Lab 3 - Kelas A` (Tutorial Lab 3 DDP1 A
+Diambil dari `Soal Tutorial Lab 3 - Kelas A.pdf` (Tutorial Lab 3 DDP1 A
 -- 13 September 2017)
