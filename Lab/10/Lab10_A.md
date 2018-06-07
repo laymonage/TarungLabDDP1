@@ -84,5 +84,5 @@ DAN HAPPY CODING 😊</strong></p>
 
 ---
 
-Diambil dari `Soal Tutorial Lab 9 - Kelas A.pdf` (Tutorial Lab 9 DDP1 A
-\-- 15 November 2017)
+Diambil dari `Soal Tutorial Lab 10 - Kelas A.pdf` (Tutorial Lab 10 DDP1 A
+\-- 22 November 2017)
