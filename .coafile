@@ -17,6 +17,6 @@ horizontal_rule = -
 [python]
 bears = LineLengthBear, PyLintBear
 files = **.py
-ignore = venv/**
+ignore = venv/**, Lab/09/Template_09_A.py, Lab/10/Template_10_A.py
 max_line_length = 79
 pylint_cli_options = --disable=fixme,invalid-name,no-member
