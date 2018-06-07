@@ -36,7 +36,7 @@ t.penup()
 # Menutup turtle setelah di- click
 turtle.exitonclick()
 ```
-![persegi](image02.png)
+![segitiga](image02.png)
 
 Benny sebagai sesama mahasiswa baru tidak ingin kalah dengan Ibnu. Ia pun berniat membuat
 bentuk yang lebih rumit dari Ibnu, yaitu bentuk segi empat . Sebagai mahasiswa Fasilkom UI
