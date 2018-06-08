@@ -31,12 +31,12 @@ Di dalam file tersebut berisi:
    Mencari nilai terbesar pada list.
 3. **Median (Median)**  
    Mencari nilai tengah pada list. Rumus median:  
-   ![median](image01.jpg)
+   ![median](../images/lab06_a_01.jpg)
 4. **Rata - rata (Mean)**  
    Mencari nilai rata-rata dari sebuah list.
 5. **Variasi (Variance)**  
    Mencari variasi dari sebuah list. Rumus varian:  
-   ![variance](image02.jpg)
+   ![variance](../images/lab06_a_02.jpg)
 
 Buatlah 5 buah fungsi yang memiliki parameter list yang di input yang akan
 menerapkan operasi diatas.

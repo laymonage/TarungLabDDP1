@@ -1,7 +1,7 @@
 [all]
 bears = SpaceConsistencyBear
 files = **
-ignore = .git/**, venv/**, **.png, **.md, **.orig
+ignore = .git/**, venv/**, **.png, **.md, **.orig, **.jpg
 use_spaces = True
 
 [markdown]
@@ -17,6 +17,6 @@ horizontal_rule = -
 [python]
 bears = LineLengthBear, PyLintBear
 files = **.py
-ignore = venv/**, Lab/09/Template_09_A.py, Lab/10/Template_10_A.py
+ignore = venv/**, lab/09/template_09_a.py, lab/10/template_10_a.py
 max_line_length = 79
 pylint_cli_options = --disable=fixme,invalid-name,no-member

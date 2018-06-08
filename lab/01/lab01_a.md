@@ -38,7 +38,7 @@ t.penup()
 turtle.exitonclick()
 ```
 
-![segitiga](image02.jpg)
+![segitiga](../images/lab01_a_01.jpg)
 
 Benny sebagai sesama mahasiswa baru tidak ingin kalah dengan Ibnu. Ia pun
 berniat membuat bentuk yang lebih rumit dari Ibnu, yaitu bentuk segi empat.

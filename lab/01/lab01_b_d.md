@@ -55,7 +55,7 @@ keinginan Benny!
 
 #### Contoh keluaran:
 
-![anaktangga](image01.png)
+![anak tangga](../images/lab01_b_d_01.jpg)
 
 ---
 

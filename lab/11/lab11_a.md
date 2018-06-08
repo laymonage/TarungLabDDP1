@@ -10,7 +10,7 @@ kalkulator untuknya. Namun Ibu tidak mengerti jika tampilan program kalian
 sulit dimengerti dan tidak estetik. Maka program kalkulator tersebut perlu
 dibungkus dengan GUI.
 
-![kalkulator](image01.jpg)
+![kalkulator](../images/lab11_a_01.jpg)
 
 Berikut ini salah satu contoh tampilan GUI dari program kalkulator **paling
 sederhana.** Mahasiswa dipersilahkan dan dianjurkan untuk berkreasi se-kreatif
