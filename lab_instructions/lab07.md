@@ -256,7 +256,7 @@ Berikut adalah beberapa fungsi dan operasi yang berguna pada *dictionary*.
 | `len(dict_a)`     | mengembalikan banyaknya pasangan pada `dict_a`          |
 | `k in dict_a`     | memeriksa apakah *key* `k` ada di dalam `dict_a`        |
 | `k not in dict_a` | sama dengan `not (k in dict_a)`                         |
-| `for k in dict_a` | mengiterasi seluruh elemen `dict_a` secara acak         |
+| `for k in dict_a` | mengiterasi seluruh *key* di dalam `dict_a`             |
 | `dict_a.pop(k)`   | membuang *key* `k` dari `dict_a`, mengembalikan *value* |
 | `dict_a.clear()`  | mengosongkan `dict_a`                                   |
 | `dict_a.copy()`   | mengembalikan salinan `dict_a`                          |
