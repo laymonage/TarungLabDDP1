@@ -36,8 +36,8 @@ Berikut adalah aturan penamaan secara umum dalam Python:
 - **diawali dengan huruf atau *underscore*** `_`, dan sisanya bisa terdiri dari
   **huruf**, **angka/digit**, dan ***underscore***.  
   Contoh:
-  - <span style="color: blue">OK: `abc`, `AbC`, `a12`, `BC_12`, `_ab12`</span>
-  - <span style="color: red">NOT OK: `123_AbC`, `ab$C`, `ab&@#c`</span>
+  - ***OK:*** `abc`, `AbC`, `a12`, `BC_12`, `_ab12`
+  - ***NOT OK:*** `123_AbC`, `ab$C`, `ab&@#c`
 - panjang nama bisa **berapa pun**.
 - huruf besar dan kecil dianggap **beda** (***case-sensitive***).  
   Contoh: `Panjang_Sisi` beda dengan `panjang_sisi`
@@ -69,9 +69,8 @@ berikut.
 
 1. **Integer**, contoh: `42`, `123`
 2. **String**, contoh: `"Qerja lembur bagai quda"`, `'DDP ez pz lemon squeezy'`  
-   <span style="color: red">**Catatan**</span>: penggunaan tanda petik dua `"`
-   maupun tanda petik satu `'` sama saja, asalkan dibuka dan ditutup
-   menggunakan tanda yang sama.
+   **Catatan**: penggunaan tanda petik dua `"` maupun tanda petik satu `'` sama
+   saja, asalkan dibuka dan ditutup menggunakan tanda yang sama.
 3. **Float**, contoh: `0.25`, `22.07`
 4. **Boolean**, hanya memiliki dua kemungkinan nilai, yaitu `True` atau `False`
 5. **List**, contoh: `[1, 2, 2, 3, 4, 5]`
@@ -92,9 +91,8 @@ data dari suatu nilai. Berikut adalah contoh penggunaannya.
 
 Memahami tipe data dalam Python sangat penting karena tipe data mendefinisikan
 operasi-operasi apa saja yang bisa dilakukan terhadap nilai tersebut.
-**Perlu diketahui bahwa di Python, tipe data nilai suatu variabel
-<span style="color:red">dapat berubah-ubah (dinamis)</span>, jadi kalian harus
-berhati-hati.**
+**Perlu diketahui bahwa di Python, tipe data nilai suatu variabel dapat
+berubah-ubah (dinamis), jadi kalian harus berhati-hati.**
 
 <br>
 
@@ -138,17 +136,18 @@ di tutorial kali ini.
 
 ## *Type casting* (mengubah tipe data)
 
-Dalam bahasa Python, sangat penting untuk mengetahui cara mengubah tipe data
-sebuah nilai ke tipe data yang lain. Khususnya karena dalam bahasa Python,
-apabila kita menerima masukan dari pengguna menggunakan fungsi `input()`, maka
-nilai yang akan dikembalikan pasti bertipe data *string*. Sedangkan, terkadang
-kita memerlukan masukan berupa bilangan bulat, bilangan riil, atau lainnya.
+Dalam bahasa Python, sangat penting untuk mengetahui cara **mengubah tipe
+data** sebuah nilai ke tipe data yang lain. Khususnya karena dalam bahasa
+Python, apabila kita menerima masukan dari pengguna menggunakan fungsi
+`input()`, maka nilai yang akan dikembalikan pasti bertipe data *string*.
+Sedangkan, terkadang kita memerlukan masukan berupa bilangan bulat, bilangan
+riil, atau lainnya.
 
 Perlu diketahui bahwa untuk sebagian besar operasi biner (operasi dengan dua
 operan), tipe data kedua operan harus sama. Ekspresi seperti `'1' + 1` tidak
-akan menghasilkan `2`, tetapi akan menghasilkan
-<span style="color: red">***error***</span>. Oleh karena itu, kita perlu
-mengetahui cara untuk mengubah suatu tipe data menjadi tipe data yang lain.
+akan menghasilkan `2`, tetapi akan menghasilkan ***error***. Oleh karena itu,
+kita perlu mengetahui cara untuk mengubah suatu tipe data menjadi tipe data
+yang lain.
 
 Beberapa cara untuk mengubah tipe data:
 

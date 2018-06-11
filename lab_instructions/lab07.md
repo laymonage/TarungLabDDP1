@@ -34,7 +34,7 @@ Ciri-ciri *set*, antara lain:
 
 ### Inisialisasi *set*
 
-Terdapat dua jenis cara untuk menginisialisasi/membuat sebuah *set*.
+Terdapat dua jenis cara untuk **menginisialisasi**/membuat sebuah *set*.
 
 **1. Menginisialisasi sebuah *set* kosong terlebih dahulu,**
 **kemudian menambahkan elemen-elemennya satu per satu**
@@ -98,7 +98,7 @@ Selain yang ada di atas, ada beberapa operasi penting yang harus dipahami
 mengenai *set*, yaitu ***copy***, ***union***, ***intersection***,
 ***difference***, dan ***symmetric difference***.
 
-1. *Copy* (salin)
+1. ***Copy* (salin)**
 
 ```python
 >>> set_a = set('Matematika')  # Set berisi karakter-karakter pada 'Matematika'
@@ -116,7 +116,7 @@ mengenai *set*, yaitu ***copy***, ***union***, ***intersection***,
 {'e', 'a', 'k', 'M', 'i', 'm', 't'}  # Elemen 'M' tetap ada di set_b
 ```
 
-2. *Union* (gabungan)
+2. ***Union* (gabungan)**
 
 ```python
 >>> set_a = {1, 2}
@@ -129,7 +129,7 @@ mengenai *set*, yaitu ***copy***, ***union***, ***intersection***,
 {1, 2, 4, 5}
 ```
 
-3. *Intersection* (irisan)
+3. ***Intersection* (irisan)**
 
 ```python
 >>> set_a = {1, 2}
@@ -142,7 +142,7 @@ mengenai *set*, yaitu ***copy***, ***union***, ***intersection***,
 {2}
 ```
 
-4. *Difference* (beda)
+4. ***Difference* (beda)**
 
 ```python
 >>> set_a = {1, 2}
@@ -155,7 +155,7 @@ mengenai *set*, yaitu ***copy***, ***union***, ***intersection***,
 {1}
 ```
 
-5. *Symmetric difference* (beda simetris)
+5. ***Symmetric difference* (beda simetris)**
 
 ```python
 >>> set_a = {1, 2}
@@ -197,7 +197,7 @@ bersifat unik dan dapat diisi dengan apapun.
 
 ### Inisialisasi dan akses *dictionary*
 
-Inisialisasi sebuah *dictionary* dapat dilakukan dengan cara berikut.
+**Inisialisasi** sebuah *dictionary* dapat dilakukan dengan cara berikut.
 
 ```python
 >>> contacts = {}  # Inisialisasi dictionary kosong
@@ -249,7 +249,7 @@ melakukan hal berikut.
 
 ### Fungsi dan operasi pada *dictionary*
 
-Berikut adalah beberapa fungsi dan operasi yang berguna pada *dictionary*.
+Berikut adalah beberapa **fungsi dan operasi yang berguna pada *dictionary***.
 
 | Fungsi/operasi    | Keterangan                                              |
 | ----------------- | ------------------------------------------------------- |
@@ -317,7 +317,7 @@ dict_values([1, 2, 40, {'a', 'h'}])
 <br>
 
 Untuk lebih lanjut mengenai *set* dan *dictionary*, silakan buka dokumentasi
-Python untuk [*set*][set] dan [*dictionary*][dictionary].
+Python untuk [*set*][set docs] dan [*dictionary*][dictionary docs].
 
 <br>
 
@@ -331,6 +331,6 @@ Diadaptasi dari:
 
 dengan beberapa perubahan.
 
-[set]: https://docs.python.org/3/library/stdtypes.html#set
+[set docs]: https://docs.python.org/3/library/stdtypes.html#set
 
-[dictionary]: https://docs.python.org/3/library/stdtypes.html#dict
+[dictionary docs]: https://docs.python.org/3/library/stdtypes.html#dict

@@ -33,7 +33,7 @@ sedang dikerjakan menjadi kasus yang lebih kecil (lebih dekat ke kasus dasar).
 
 ## Mendefinisikan fungsi rekursif
 
-Dalam mendefinisikan fungsi rekursif, kita perlu melakukan dua hal, yaitu:
+Dalam **mendefinisikan fungsi rekursif**, kita perlu melakukan dua hal, yaitu:
 
 - mendefinisikan ***base case***, yaitu kasus yang solusinya didapat tanpa
   panggilan rekursif, dan
@@ -43,7 +43,7 @@ Dalam mendefinisikan fungsi rekursif, kita perlu melakukan dua hal, yaitu:
 
 ### Faktorial
 
-Salah satu masalah yang bisa diselesaikan secara rekursif adalah faktorial.
+Salah satu masalah yang bisa diselesaikan secara rekursif adalah **faktorial**.
 Kita dapat memformulasikan faktorial seperti berikut.
 
 ```
@@ -77,8 +77,8 @@ def faktorial(n):
 
 ### Fibonacci
 
-Contoh lain dari fungsi rekursif adalah fungsi untuk bilangan Fibonacci. Pada
-barisan Fibonacci, berlaku hal berikut.
+Contoh lain dari fungsi rekursif adalah fungsi untuk bilangan **Fibonacci**.
+Pada barisan Fibonacci, berlaku hal berikut.
 
 - Dua bilangan pertama adalah 0 dan 1
 - Bilangan-bilangan berikutnya dalam barisan adalah hasil penjumlahan dua
@@ -118,17 +118,17 @@ Coba atasi sendiri masalah tersebut sebagai latihan.</sub></sup>
 
 Jika dilihat, rekursi mirip dengan iterasi (perulangan). *Base case* mirip
 dengan kondisi akhir perulangan, dan setiap langkah rekursif harus membawa kita
-ke kondisi tersebut. Beberapa perbedaan di antara keduanya adalah sebagai
+ke kondisi tersebut. Beberapa **perbedaan di antara keduanya** adalah sebagai
 berikut.
 
-Iterasi:
+**Iterasi:**
 
 - Memakai struktur perulangan (`for` atau `while`) secara eksplisit.
 - Berhenti jika kondisi perulangan bernilai `False`, atau elemen yang diiterasi
   sudah tidak ada.
 - Kontrol perulangan menggunakan *counter* atau kondisi Boolean.
 
-Rekursi:
+**Rekursi:**
 
 - Memakai struktur percabangan (`if`, `if/else`, atau `if/elif/else`).
 - Perulangan melalui pemanggilan fungsi berulang.

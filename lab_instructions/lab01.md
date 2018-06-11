@@ -57,9 +57,9 @@ seperti contoh berikut.
 
 ### Membuat *file* kode Python
 
-Untuk membuat *file* (berkas) di IDLE, cukup klik **File** -> **New File**
-atau menggunakan *shortcut* <kbd>Ctrl</kbd> + <kbd>N</kbd>, seperti gambar di
-bawah.
+Untuk membuat ***file*** (berkas) di IDLE, cukup klik **`File`** ->
+**`New File`** atau menggunakan *shortcut* <kbd>Ctrl</kbd> + <kbd>N</kbd>,
+seperti gambar di bawah.
 
 ![New file](images/lab01_04.jpg)
 
@@ -83,9 +83,9 @@ print("Selamat Datang di Dasar-Dasar Pemrograman 1", nama)
 
 ### Menyimpan *file* program
 
-Untuk menjalankan *file* program, simpan terlebih dahulu *file*-nya dengan
-**File** -> **Save** atau <kbd>Ctrl</kbd> + <kbd>S</kbd>, lalu beri nama
-*file*-nya, lalu tekan **Save**.
+Untuk menjalankan *file* program, **simpan** terlebih dahulu *file*-nya dengan
+**`File`** -> **`Save`** atau <kbd>Ctrl</kbd> + <kbd>S</kbd>, lalu beri nama
+*file*-nya, lalu tekan **`Save`**.
 
 ![Save file](images/lab01_06.jpg)
 
@@ -95,15 +95,15 @@ Untuk menjalankan *file* program, simpan terlebih dahulu *file*-nya dengan
 
 ### Menjalankan program
 
-Untuk menjalankan program, cukup klik **Run** -> **Run Module** atau tekan
-<kbd>F5</kbd>. Perlu diingat bahwa IDLE tidak akan menjalankan program jika
-*file* belum disimpan.
+Untuk **menjalankan program**, cukup klik **`Run`** -> **`Run Module`** atau
+tekan <kbd>F5</kbd>. Perlu diingat bahwa IDLE tidak akan menjalankan program
+jika *file* belum disimpan.
 
 <br>
 
 ## Membuat program sederhana
 
-Coba buat *file* baru yang berisi kode program berikut, kemudian jalankan.
+Coba **buat** *file* baru yang berisi kode program berikut, kemudian jalankan.
 
 ```python
 nama = input("Nama: ")
@@ -121,9 +121,9 @@ print("Selamat berjuang di Fasilkom!")
 print(something)
 ```
 
-Fungsi `print` adalah perintah yang dapat digunakan untuk menampilkan teks ke
-dalam layar. Pada dasarnya, hampir semua data bisa dicetak ke layar
-menggunakan fungsi `print` ini.
+Fungsi `print` adalah perintah yang dapat digunakan untuk **mencetak**
+(menampilkan) teks ke dalam layar. Pada dasarnya, hampir semua data bisa
+dicetak ke layar menggunakan fungsi `print` ini.
 
 <br>
 
@@ -133,7 +133,7 @@ menggunakan fungsi `print` ini.
 input(insert question text)
 ```
 
-Ada kalanya kita memerlukan informasi dari luar, misalnya dari pengguna
+Ada kalanya kita memerlukan informasi dari luar, misalnya dari **pengguna**
 *(user)*. Untuk mendapatkan informasi tersebut, kita bisa menggunakan fungsi
 `input`.
 
@@ -155,7 +155,8 @@ bawahnya, lalu kita beri instruksi apa yang akan dilakukan si kura-kura itu.
 ### *Import module* Turtle
 
 Untuk bisa mengakses fitur dari *module* Turtle ini, pertama-tama kita harus
-meng-*import* *module*-nya dengan cara memasukkan kata kunci `import turtle`.
+meng-***import*** *module*-nya dengan cara memasukkan kata kunci
+`import turtle`.
 
 ![Import turtle](images/lab01_08.jpg)
 
@@ -171,8 +172,8 @@ sebagai kanvas yang digunakan sebagai tempat menggambar.
 
 ### *Method-method* di objek Turtle
 
-Ada beberapa *method* (fungsi) yang bisa kalian gunakan untuk mengoperasikan
-sebuah objek Turtle yang telah dibuat, seperti:
+Ada beberapa ***method*** (fungsi) yang bisa kalian gunakan untuk
+mengoperasikan sebuah objek Turtle yang telah dibuat, seperti:
 
 - `pendown()`  
   *Method* ini digunakan untuk mengaktifkan pena. Ibaratnya, mata pena tersebut
@@ -222,7 +223,7 @@ membaca dokumentasi Python.
 ## Dokumentasi
 
 Ada kalanya kita kebingungan mengenai kegunaan fungsi X, Y, dsb. Python sendiri
-sudah menyediakan dokumentasi mengenai segala sesuatu mengenai Python.
+sudah menyediakan **dokumentasi** mengenai segala sesuatu mengenai Python.
 Dokumentasinya dapat kalian akses dengan mengklik **Help** ->
 [**Python Docs**][python docs].
 

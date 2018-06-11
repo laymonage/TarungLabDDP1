@@ -26,10 +26,10 @@ Sumber: [eecs.wsu.edu][number systems]
 
 ### Desimal dan biner
 
-Umumnya, kita menggunakan sistem bilangan dalam basis 10 (desimal) dalam
-menyatakan bilangan dalam berbagai hal di kehidupan sehari-hari. Saat kita
-menggunakan sistem bilangan basis 10, kita mengenal 10 angka, yaitu 0, 1, 2, 3,
-4, 5, 6, 7, 8, dan 9. Dalam sistem bilangan basis 10, setiap digit dikali
+Umumnya, kita menggunakan **sistem bilangan** dalam basis 10 (**desimal**)
+dalam menyatakan bilangan dalam berbagai hal di kehidupan sehari-hari. Saat
+kita menggunakan sistem bilangan basis 10, kita mengenal 10 angka, yaitu 0, 1,
+2, 3, 4, 5, 6, 7, 8, dan 9. Dalam sistem bilangan basis 10, setiap digit dikali
 10<sup>n</sup> di mana n adalah bilangan sesuai posisi digit tersebut,
 dimulai dari 0 dari kanan.
 
@@ -39,7 +39,7 @@ Contohnya:
 = (8 x 100) + (4 x 10) + (3 x 1)  
 = 800 + 40 + 3
 
-Pada sistem bilangan basis 2 (biner), kita hanya mengenal 2 angka, yaitu
+Pada sistem bilangan basis 2 (**biner**), kita hanya mengenal 2 angka, yaitu
 0 dan 1. Seperti dalam sistem bilangan basis 10, setiap digit kita kali dengan
 basis sistem bilangan yang digunakan, dengan pangkat yang sesuai dengan posisi
 digit. Untuk lebih jelasnya, lihat konversi bilangan dari sistem biner ke
@@ -49,9 +49,9 @@ sistem desimal berikut.
 
 ### Konversi biner ke desimal
 
-Konversi bilangan biner ke desimal cukup sederhana. Caranya dengan mengalikan
-setiap digit dengan 2<sup>n</sup>, di mana n adalah bilangan sesuai posisi
-digit tersebut, dimulai dari 0 dari kanan.
+**Konversi bilangan biner ke desimal** cukup sederhana. Caranya dilakukan
+dengan mengalikan setiap digit dengan 2<sup>n</sup>, di mana n adalah bilangan
+sesuai posisi digit tersebut, dimulai dari 0 dari kanan.
 
 Contoh: konversi 10110<sub>2</sub> ke bentuk desimal.
 
@@ -72,7 +72,7 @@ Jadi, 10110<sub>2</sub> `==` 22<sub>10</sub>.
 
 ### Konversi desimal ke biner
 
-Konversi desimal ke biner dapat dilakukan dengan membagi bilangan desimal
+**Konversi desimal ke biner** dapat dilakukan dengan membagi bilangan desimal
 berulang kali dan menyimpan hasil operasi modulo dengan 2 pada hasil pembagian
 tersebut hingga hasil pembagian mencapai nol. Lalu, mengurutkan secara terbalik
 hasil modulo dari bilangan-bilangan tersebut. Ilustrasinya seperti berikut.
@@ -85,7 +85,7 @@ Sumber: [WikiHow][wikihow]
 
 ## Percabangan
 
-Percabangan adalah salah satu bentuk kontrol dalam pemrograman. Dengan
+**Percabangan** adalah salah satu bentuk kontrol dalam pemrograman. Dengan
 percabangan, kita dapat mengontrol alur program sehingga bagian tertentu dari
 program hanya akan dijalankan ketika suatu kondisi terpenuhi. Dalam Python,
 percabangan dapat dilakukan dengan menggunakan *keyword* `if`, `elif`, dan
@@ -113,7 +113,7 @@ else:
 
 ### `if`
 
-`if` merupakan penanda awal dari suatu percabangan, oleh karena itu `if`
+**`if`** merupakan penanda awal dari suatu percabangan, oleh karena itu `if`
 **wajib** ada dalam setiap percabangan. Seluruh perintah di dalam blok `if`
 akan dijalankan ketika kondisi untuk `if` tersebut bernilai `True`.
 
@@ -132,9 +132,9 @@ if (a < b):
 
 ### `elif`
 
-`elif` merupakan gabungan dari `else` dan `if`. Seluruh perintah dalam suatu
-blok `elif` akan dijalankan ketika kondisi `if` atau `elif` sebelumnya tidak
-terpenuhi dan kondisi untuk `elif` tersebut bernilai `True`.
+**`elif`** merupakan gabungan dari `else` dan `if`. Seluruh perintah dalam
+suatu blok `elif` akan dijalankan ketika kondisi `if` atau `elif` sebelumnya
+tidak terpenuhi dan kondisi untuk `elif` tersebut bernilai `True`.
 
 Contoh:
 
@@ -154,8 +154,8 @@ elif a > b:
 ### `else`
 
 Ketika semua kondisi `if` dan `elif` tidak terpenuhi, maka seluruh perintah
-dalam blok `else` akan berjalan. Bisa dikatakan bahwa else adalah solusi
-terakhir, sehingga else tidak membutuhkan syarat seperti if dan elif.
+dalam blok **`else`** akan berjalan. Bisa dikatakan bahwa `else` adalah solusi
+terakhir, sehingga `else` tidak membutuhkan syarat seperti `if` dan `elif`.
 
 Contoh:
 
@@ -205,7 +205,7 @@ strukturnya lebih sulit dibaca dan dipahami. Teruslah berlatih agar terbiasa.
 
 ## Perulangan
 
-Perulangan *(loop)* adalah salah satu bentuk kontrol yang sering digunakan
+**Perulangan *(loop)*** adalah salah satu bentuk kontrol yang sering digunakan
 dalam pemrograman. Perulangan memungkinkan kita **mengulang** eksekusi
 sekumpulan perintah selama suatu kondisi terpenuhi. Dalam Python, terdapat
 dua macam perintah utama untuk melakukan perulangan, yaitu `while` dan `for`.
@@ -214,7 +214,7 @@ dua macam perintah utama untuk melakukan perulangan, yaitu `while` dan `for`.
 
 ### `while`
 
-Berikut adalah contoh kode perulangan dengan `while`.
+Berikut adalah contoh kode perulangan dengan **`while`**.
 
 ```python
 num = 0
@@ -240,12 +240,12 @@ akan membuat pengecekan selanjutnya menjadi `False`, dan *loop* berhenti.
 ### `for`
 
 Berbeda dengan `while` yang menggunakan kondisi *boolean* secara langsung,
-*loop* `for` memungkinkan kita melakukan perulangan pada suatu koleksi (contoh:
-*list*, *string*, *range*, dsb.). Setiap satu iterasi, satu elemen dari koleksi
-tersebut diproses di dalam blok `for`. Perulangan selesai ketika semua elemen
-sudah diproses. Jika koleksi memang kosong dari awal, maka perintah-perintah
-dalam blok `for` tidak dijalankan, sama seperti jika kondisi pada `while` sudah
-bernilai `False` sejak awal.
+*loop* **`for`** memungkinkan kita melakukan perulangan pada suatu koleksi
+(contoh: *list*, *string*, *range*, dsb.). Setiap satu iterasi, satu elemen
+dari koleksi tersebut diproses di dalam blok `for`. Perulangan selesai ketika
+semua elemen sudah diproses. Jika koleksi memang kosong dari awal, maka
+perintah-perintah dalam blok `for` tidak dijalankan, sama seperti jika kondisi
+pada `while` sudah bernilai `False` sejak awal.
 
 Berikut adalah contoh kode perulangan dengan `for`.
 
@@ -278,12 +278,12 @@ H a l o ,   d u n i a !
 
 ### `continue`, `break`, dan `else` di *loop*
 
-Di dalam *loop*, ada fitur kontrol tambahan, yaitu `continue`, `break`, dan
-`else`.
+Di dalam *loop*, ada fitur kontrol tambahan, yaitu **`continue`**, **`break`**,
+dan **`else`**.
 
 #### `continue`
 
-Perintah `continue`, jika dieksekusi di dalam sebuah *loop* akan membuat
+Perintah **`continue`**, jika dieksekusi di dalam sebuah *loop* akan membuat
 kontrol langsung lompat kembali ke awal *loop* dan kembali mengevaluasi kondisi
 *loop*. Seluruh perintah di bawah perintah `continue` yang ada di dalam *loop*
 tersebut akan dilompati (tidak dijalankan) dalam iterasi itu. Contoh:
@@ -305,11 +305,11 @@ uu oda
 
 #### `break`
 
-Perintah `break` jika dieksekusi di dalam sebuah *loop*, akan membuat kontrol
-keluar dari *loop* yang langsung melingkupi perintah `break` tersebut. Jika
-`break` dieksekusi, maka seluruh perintah di bawah perintah `break` yang ada di
-dalam *loop* tersebut akan dilompati, begitu juga perintah-perintah di dalam
-blok `else` milik *loop* tersebut (jika ada). Contoh:
+Perintah **`break`** jika dieksekusi di dalam sebuah *loop*, akan membuat
+kontrol keluar dari *loop* yang langsung melingkupi perintah `break` tersebut.
+Jika `break` dieksekusi, maka seluruh perintah di bawah perintah `break` yang
+ada di dalam *loop* tersebut akan dilompati, begitu juga perintah-perintah di
+dalam blok `else` milik *loop* tersebut (jika ada). Contoh:
 
 ```python
 for angka in range(10):
@@ -331,11 +331,11 @@ tepar!
 
 #### `else` di *loop*
 
-Sebuah *loop* bisa dilengkapi dengan `else`. Blok `else` akan dijalankan jika
-perulangan selesai secara normal. Sebuah *loop* dikatakan selesai secara
+Sebuah *loop* bisa dilengkapi dengan **`else`**. Blok `else` akan dijalankan
+jika perulangan selesai secara normal. Sebuah *loop* dikatakan selesai secara
 **tidak** normal jika selesai karena perintah `break`. Contoh:
 
-Sumber: [Python docs][python docs]
+Sumber: [dokumentasi Python][else loop]
 
 ```python
 for n in range(2, 10):
@@ -378,4 +378,4 @@ dengan beberapa perubahan.
 
 [wikihow]: https://www.wikihow.com/Convert-from-Decimal-to-Binary
 
-[python docs]: http://bit.ly/2sA9S8Z
+[else loop]: http://bit.ly/2sA9S8Z

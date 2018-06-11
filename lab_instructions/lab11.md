@@ -75,14 +75,15 @@ root.mainloop() # Menjalankan event loop-nya tkinter
 
 ## *Event processing*
 
-GUI `tkinter` bersifat *event-driven*, yang berarti akan merespon terhadap
+Kita dapat memanfaatkan `tkinter` untuk menerapkan ***event-driven
+programming***, yang berarti program yang kita buat akan merespon terhadap
 *event*, pada umumnya berupa aksi pengguna. Hal ini dispesifikasikan dalam
 *method* `mainloop()`. *Method* `mainloop()` membuat suatu *event loop*, yang
 akan memproses berbagai *event* terus menerus sampai *window*-nya ditutup.
 
 Berikut adalah ilustrasi dari sebuah *event loop*.
 
-![event loop](images/lab11_01.jpg)
+![Event loop](images/lab11_01.jpg)
 
 Suatu *widget* dapat diberi *event handler* (atau *callback function*) yang
 akan dieksekusi apabila suatu event terhadap widget itu terjadi, misalnya pada
@@ -99,7 +100,7 @@ self.close_button = tk.Button(master, text="Keluar", <b><u>command=master.destro
 
 Ketika membuat *(construct)* suatu *widget*, kita bisa memberi spesifikasi
 untuk atributnya, seperti `text`, `command`, dsb. Atribut-atribut tersebut
-dapat diubah dengan pendekatan ala *dictionary*,
+dapat **diubah** dengan pendekatan ala *dictionary*,
 `widget_name["nama_atribut"] = nilai_baru`.  
 Perhatikan contoh berikut.
 
@@ -113,7 +114,7 @@ Perhatikan contoh berikut.
 
 ## Berbagai *widget* `tkinter`
 
-Berikut adalah beberapa *widget* yang tersedia di `tkinter`.
+Berikut adalah beberapa ***widget*** yang tersedia di `tkinter`.
 
 | *Widget*      | Deskripsi                                                                      |
 | ------------- | ------------------------------------------------------------------------------ |
@@ -133,29 +134,29 @@ Berikut adalah ilustrasi untuk sebagian *widget* di atas.
 
 - `Entry`
 
-![entry](images/lab11_02.jpg)
+![Entry](images/lab11_02.jpg)
 
 <br>
 
 - `Radiobutton`
 
-![radiobutton](images/lab11_03.jpg)
+![Radiobutton](images/lab11_03.jpg)
 
 <br>
 
 - `Menu` dan `Menubutton`
 
-![menu dan menubutton](images/lab11_04.jpg)
+![Menu and menubutton](images/lab11_04.jpg)
 
 <br>
 
 - `Canvas` dan sistem koordinatnya
 
-![canvas 1](images/lab11_05.jpg)
+![Canvas 1](images/lab11_05.jpg)
 
-![canvas 2](images/lab11_06.jpg)
+![Canvas 2](images/lab11_06.jpg)
 
-![canvas 3](images/lab11_07.jpg)
+![Canvas 3](images/lab11_07.jpg)
 
 <br>
 
@@ -197,7 +198,7 @@ root.mainloop()
 
 Hasil:
 
-![grid manager](images/lab11_08.jpg)
+![Grid manager](images/lab11_08.jpg)
 
 <br>
 

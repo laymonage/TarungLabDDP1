@@ -22,7 +22,7 @@
 
 ### Definisi *class*
 
-*Class* adalah sebuah prototipe yang merupakan dasar untuk pembuatan objek.
+***Class*** adalah sebuah prototipe yang merupakan dasar untuk pembuatan objek.
 Prototipe ini mendefinisikan ciri-ciri objek, yang kemudian dapat digunakan ke
 depannya.
 
@@ -30,7 +30,8 @@ depannya.
 
 ### Mendefinisikan suatu *class*
 
-Kita bisa mendefinisikan sebuah *class* baru dengan menulis seperti berikut:
+Kita bisa **mendefinisikan sebuah *class*** baru dengan menulis seperti
+berikut:
 
 ```python
 class ClassName:
@@ -172,9 +173,10 @@ Untuk membuat atribut yang *static*, cukup deklarasikan di dalam pendefinisian
 
 Untuk *static method*, ada cara tersendiri yang digunakan untuk
 mendefinisikannya. Biasanya, *function decorator* seperti
-[`@staticmethod`][@staticmethod] atau [`@classmethod`][@classmethod] digunakan
-untuk mendefinisikan *static method*. Namun, kalian bisa mempelajarinya sendiri
-karena hal tersebut tidak dibahas di dalam mata kuliah ini.
+[`@staticmethod`][@staticmethod docs] atau [`@classmethod`][@classmethod docs]
+digunakan untuk mendefinisikan *static method*. Namun, kalian bisa
+mempelajarinya sendiri karena hal tersebut tidak dibahas di dalam mata kuliah
+ini.
 
 <br>
 
@@ -316,6 +318,6 @@ dengan beberapa perubahan.
 
 [camel case]: https://en.wikipedia.org/wiki/Camel_case
 
-[@staticmethod]: https://docs.python.org/3/library/functions.html#staticmethod
+[@staticmethod docs]: https://docs.python.org/3/library/functions.html#staticmethod
 
-[@classmethod]: https://docs.python.org/3/library/functions.html#classmethod
+[@classmethod docs]: https://docs.python.org/3/library/functions.html#classmethod

@@ -10,10 +10,10 @@
 
 ## Representasi *string*
 
-Dalam Python, sebuah objek *string* direpresentasikan sebagai untaian karakter
-dalam tanda petik satu `'` atau tanda petik dua `"`. Untuk menyatakan sebuah
-untaian yang mengandung tanda petik, kita dapat menggunakan *escape sequence*
-*character* yaitu `\`.  
+Dalam Python, sebuah objek ***string*** direpresentasikan sebagai untaian
+karakter dalam tanda petik satu `'` atau tanda petik dua `"`. Untuk menyatakan
+sebuah untaian yang mengandung tanda petik, kita dapat menggunakan *escape
+sequence character* yaitu `\`.  
 Contoh:
 
 ```python
@@ -42,10 +42,11 @@ Untuk string dengan panjang `n`:
 - Indeks non-negatif dari kiri ke kanan: `0`, `1`, `2`, `...` , `n-1`
 - Indeks negatif dari kiri ke kanan: `-n`, `-n + 1`, `-n + 2`, `...`, `-1`
 
-Lebih jauh lagi, kita bisa menggunakan operator `[]` untuk operasi *slicing*:
-mengakses subrangkaian. Argumennya serupa dengan fungsi range, yaitu:
+Lebih jauh lagi, kita bisa menggunakan operator `[]` untuk operasi
+***slicing*** yang mengakses subrangkaian. Argumennya serupa dengan fungsi
+`range`, yaitu:
 
-Bentuk umum: `[start:end:step]`
+`[start:end:step]`
 
 - `start`: nilai indeks dimulainya subrangkaian (inklusif, *default*: 0)
 - `end`: nilai indeks sesudah akhir subrangkaian (eksklusif, *default*: nilai
@@ -71,7 +72,7 @@ Contoh:
 
 ## *String methods*
 
-Dalam Python, terdapat banyak *method* yang dapat digunakan untuk mengolah
+Dalam Python, terdapat banyak ***method*** yang dapat digunakan untuk mengolah
 string. Namun, perlu ditekankan kembali, *string* bersifat ***immutable***,
 sehingga tidak ada satupun *method* yang mengubah nilai sebuah *string* yang
 tersimpan dalam suatu variabel. Beberapa contoh *method* di *string* adalah:
@@ -115,7 +116,7 @@ aslinya atau ke sebuah variabel baru.
 ```
 
 Untuk mengetahui *method-method* lainnya untuk tipe data *string*, kalian bisa
-melihatnya di ["Python documentation: Common string operations"][python docs].
+melihatnya di [dokumentasi Python][string docs].
 
 <br>
 
@@ -128,4 +129,4 @@ Diadaptasi dari:
 
 dengan beberapa perubahan.
 
-[python docs]: https://docs.python.org/3/library/string.html
+[string docs]: https://docs.python.org/3/library/string.html

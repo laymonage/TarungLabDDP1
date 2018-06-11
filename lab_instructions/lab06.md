@@ -2,7 +2,7 @@
 
 ## Daftar Isi
 
-- [Definisi](#definisi)
+- [Definisi fungsi](#definisi-fungsi)
 - [Parameter](#parameter)
   - [Parameter *default*](#parameter-default)
   - [Pemberian argumen](#pemberian-argumen)
@@ -11,10 +11,10 @@
 
 <br>
 
-## Definisi
+## Definisi fungsi
 
 Kita sudah sering menggunakan fungsi di lab-lab sebelumnya, seperti  `print()`,
-`input()`, `len()`, dan `range()`. Fungsi merupakan salah satu bagian dari
+`input()`, `len()`, dan `range()`. **Fungsi** merupakan salah satu bagian dari
 pemrograman yang paling fundamental, jadi pastikan kalian mengerti
 penggunaannya. Fungsi merupakan salah satu cara mudah untuk membagi program
 menjadi bagian-bagian yang berguna, memungkinkan untuk mengurutkan kode menjadi
@@ -43,9 +43,9 @@ menerima parameter `x` dan mengembalikan nilai `x**2`.
 
 ## Parameter
 
-Parameter pada fungsi adalah variabel-variabel yang diperlukan dalam fungsi.
-Seperti contoh di atas, fungsi `kuadrat` memerlukan suatu variabel `x` untuk
-menghitung `x`<sup>`2`</sup>.
+**Parameter** pada fungsi adalah variabel-variabel yang diperlukan dalam
+fungsi. Seperti contoh di atas, fungsi `kuadrat` memerlukan suatu variabel `x`
+untuk menghitung `x`<sup>`2`</sup>.
 
 Ketika kita memanggil suatu fungsi yang memiliki parameter, kita memberikan
 nilai yang akan digunakan sebagai parameter di dalam fungsi. Nilai yang kita
@@ -69,11 +69,11 @@ sesuatu = intro()  # Dapat dipanggil tanpa parameter
 
 ### Parameter *default*
 
-Kita juga bisa mendefinisikan nilai *default* untuk suatu parameter. Parameter
-yang memiliki nilai *default* tidak harus diberi nilai ketika dipanggil. Jika
-suatu fungsi memiliki parameter *default* dan parameter non-*default*, maka
-parameter yang non-*default* harus diletakkan lebih awal. Berikut adalah contoh
-pendefinisian fungsi yang memiliki *default* parameter.
+Kita juga bisa mendefinisikan nilai ***default*** untuk suatu parameter.
+Parameter yang memiliki nilai *default* tidak harus diberi nilai ketika
+dipanggil. Jika suatu fungsi memiliki parameter *default* dan parameter
+non-*default*, maka parameter yang non-*default* harus diletakkan lebih awal.
+Berikut adalah contoh pendefinisian fungsi yang memiliki *default* parameter.
 
 ```python
 def hitung_volume_balok(panjang, lebar=5, tinggi=7):
@@ -89,7 +89,7 @@ print(hitung_volume_balok(tinggi=5, panjang=9))  # Output: 225
 
 ### Pemberian argumen
 
-Pada contoh sebelum-sebelumnya, kita memberikan argumen dengan memberikan
+Pada contoh sebelum-sebelumnya, kita **memberikan argumen** dengan memberikan
 nilainya secara langsung. Argumen yang seperti ini dinamakan *positional*
 *argument*. Pada contoh terakhir yang di atas, kita melihat bahwa kita juga
 bisa memberikan argumen dengan menyebutkan nama parameternya secara eksplisit.
@@ -104,8 +104,8 @@ kita ingin mencampurkan *keyword argument* dengan *positional argument*, maka
 ### Argumen yang banyaknya bebas
 
 Selain itu, kita juga bisa mendefinisikan sebuah fungsi yang memiliki parameter
-yang bisa diisi dengan argumen sebanyak apa pun. Terdapat beberapa ketentuan
-untuk hal ini:
+yang bisa diisi dengan **argumen sebanyak apa pun**. Terdapat beberapa
+ketentuan untuk hal ini:
 
 - parameter dengan argumen yang banyaknya bebas ditandai dengan memberi
   karakter `*` di depan nama parameter.
@@ -132,7 +132,7 @@ Bagaimanakah outputnya?
 
 ## Pengembalian nilai (`return`)
 
-Suatu fungsi dapat mengembalikan nilai, seperti fungsi `len(x)` yang
+Suatu fungsi dapat **mengembalikan nilai**, seperti fungsi `len(x)` yang
 mengembalikan panjang dari suatu *container* `x` yang diberikan, dan fungsi
 `input()` yang mengembalikan input dari pengguna. Namun, fungsi juga bisa tidak
 mengembalikan nilai, seperti fungsi `print()`.
@@ -169,7 +169,8 @@ dalam blok `try` yang memiliki klausa `finally`?</sub></sup>
 
 Masih banyak yang dapat dipelajari mengenai fungsi dalam Python. Untuk
 mempelajari lebih lanjut, kalian bisa membuka dokumentasi Python untuk
-[fungsi][fungsi], [parameter][parameter], dan [argumen][argumen].
+[fungsi][function docs], [parameter][parameter docs], dan
+[argumen][argument docs].
 
 <br>
 
@@ -182,8 +183,8 @@ Diadaptasi dari:
 
 dengan beberapa perubahan.
 
-[fungsi]: https://docs.python.org/3/reference/compound_stmts.html#function
+[function docs]: https://docs.python.org/3/reference/compound_stmts.html#function
 
-[parameter]: https://docs.python.org/3/glossary.html#term-parameter
+[parameter docs]: https://docs.python.org/3/glossary.html#term-parameter
 
-[argumen]: https://docs.python.org/3/glossary.html#term-argument
+[argument docs]: https://docs.python.org/3/glossary.html#term-argument
