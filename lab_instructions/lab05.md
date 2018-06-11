@@ -11,8 +11,8 @@
 
 ## I/O *file* teks
 
-Untuk dapat membaca atau menulis berkas (*file*), kita bisa menggunakan fungsi:
-`open(nama_file, mode)`
+Untuk dapat membaca atau menulis berkas (*file*), kita bisa menggunakan fungsi
+`open(nama_file, mode)`.
 
 Contoh:
 
@@ -36,13 +36,12 @@ Keterangan:
 | `'a'`  | Hanya tulis  | Isi dibiarkan   | Buat dan buka baru    | Akhir         |
 | `'r+'` | Baca & tulis | Isi dibiarkan   | **Error**             | Awal          |
 
-Untuk mode lainnya, silakan lihat di [dokumentasi fungsi `open`][python docs1]
+Untuk mode lainnya, silakan lihat di [dokumentasi fungsi `open`][python docs1].
 
 <br>
 
 Untuk menambahkan *string* ke dalam file yang akan ditulis, kalian bisa
-menggunakan fungsi:
-`print(sebuah_string, file=objek_file)`
+menggunakan fungsi `print(sebuah_string, file=objek_file)`.
 
 Contoh:
 
