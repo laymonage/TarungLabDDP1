@@ -368,8 +368,8 @@ Output:
 Diadaptasi dari:
 
 - `lab03_senin.pdf` buatan **FDL**, **IF**, **PDD**, dan **SAT**
-- `Lab02 Dasar-Dasar Pemrograman 1 Jumat.pdf` buatan **NN**, **WP**, **YE**,
-  dan **AH**
+- `Lab02 Dasar-Dasar Pemrograman 1 Jumat.pdf`
+  buatan **NN**, **WP**, **YE**, dan **AH**
 - `ddp1-17gasal-04.pdf` buatan **Adila Alfa Krisnadhi, Ph.D.**
 
 dengan beberapa perubahan.

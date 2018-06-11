@@ -207,7 +207,7 @@ Inheritance berguna untuk:
 
 Diadaptasi dari:
 
-- `Lab 09.pdf`
+- `Lab 09.pdf` buatan beberapa asisten dosen DDP1 2017 semester ganjil
 - `ddp1-17gasal-11.pdf` buatan **Adila Alfa Krisnadhi, Ph.D.**
 
 dengan beberapa perubahan.

@@ -177,10 +177,10 @@ with open("nama_file.txt") as objek_file:
 
 Diadaptasi dari:
 
-- `Lab 4 Dasar-Dasar Pemrograman 1 - REVISI.pdf` buatan
-  **NN**, **WP**, **YE**, dan **AH**
-- `ddp1-17gasal-06.pdf` dan `ddp1-17gasal-14.pdf` buatan
-  **Adila Alfa Krisnadhi, Ph.D.**
+- `Lab 4 Dasar-Dasar Pemrograman 1 - REVISI.pdf`
+  buatan **NN**, **WP**, **YE**, dan **AH**
+- `ddp1-17gasal-06.pdf` dan `ddp1-17gasal-14.pdf`
+  buatan **Adila Alfa Krisnadhi, Ph.D.**
 
 dengan beberapa perubahan.
 

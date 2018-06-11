@@ -166,9 +166,12 @@ misalnya ketika kalian mencoba melakukan `int("hehe")`.
 
 ---
 
-Diadaptasi dari `DDP1_KelasBD_Lab01_7Sep2017.pdf` buatan **AA**, **END**,
-**KT**, dan **ZZ**, dan `ddp1-17gasal-03.pdf` buatan **Adila Alfa Krisnadhi,**
-**Ph.D.** dengan beberapa perubahan.
+Diadaptasi dari:
+
+- `DDP1_KelasBD_Lab01_7Sep2017.pdf` buatan **AA**, **END**, **KT**, dan **ZZ**
+- `ddp1-17gasal-03.pdf` buatan **Adila Alfa Krisnadhi, Ph.D.**
+
+dengan beberapa perubahan.
 
 [snake case]: https://en.wikipedia.org/wiki/Snake_case
 

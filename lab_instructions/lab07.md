@@ -325,8 +325,8 @@ Python untuk [*set*][set] dan [*dictionary*][dictionary].
 
 Diadaptasi dari:
 
-- `Soal Tutorial Lab 7 - Kelas C.pdf` buatan
-  **FDL**, **IF**, **PDD**, dan **SAT**
+- `Soal Tutorial Lab 7 - Kelas C.pdf`
+  buatan **FDL**, **IF**, **PDD**, dan **SAT**
 - `ddp1-17gasal-09.pdf` buatan **Adila Alfa Krisnadhi, Ph.D.**
 
 dengan beberapa perubahan.
