@@ -70,7 +70,7 @@ kalian, silakan ikuti petunjuk instalasi berikut.
    akan membantu kalian menjaga penulisan kode kalian tetap rapi dan sesuai
    dengan konvensi yang telah ditetapkan.
 
-8. Untuk menjalankan kode Python, klik **`Debug`** -> **`Start Debugging`**
+8. Untuk menjalankan kode Python, klik **`Debug` -> `Start Debugging`**
    atau tekan <kbd>F5</kbd>.
 
 <br>
@@ -94,7 +94,7 @@ silakan ikuti petunjuk instalasi berikut.
 
 4. Tunggu hingga instalasi selesai, kemudian buka Sublime Text.
 
-5. Klik **`Preferences`** -> **`Browse Packages...`**, kemudian buka direktori
+5. Klik **`Preferences` -> `Browse Packages...`**, kemudian buka direktori
    `User`.
 
 6. Buka berkas [**`Python (shell).sublime-build`**][sublime build], klik kanan

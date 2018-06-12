@@ -84,7 +84,7 @@ print("Selamat Datang di Dasar-Dasar Pemrograman 1", nama)
 ### Menyimpan *file* program
 
 Untuk menjalankan *file* program, **simpan** terlebih dahulu *file*-nya dengan
-**`File`** -> **`Save`** atau <kbd>Ctrl</kbd> + <kbd>S</kbd>, lalu beri nama
+**`File` -> `Save`** atau <kbd>Ctrl</kbd> + <kbd>S</kbd>, lalu beri nama
 *file*-nya, lalu tekan **`Save`**.
 
 ![Save file](images/lab01_06.jpg)
@@ -95,7 +95,7 @@ Untuk menjalankan *file* program, **simpan** terlebih dahulu *file*-nya dengan
 
 ### Menjalankan program
 
-Untuk **menjalankan program**, cukup klik **`Run`** -> **`Run Module`** atau
+Untuk **menjalankan program**, cukup klik **`Run` -> `Run Module`** atau
 tekan <kbd>F5</kbd>. Perlu diingat bahwa IDLE tidak akan menjalankan program
 jika *file* belum disimpan.
 
