@@ -219,4 +219,4 @@ dengan beberapa perubahan.
 
 [gui with tk]: https://docs.python.org/3/library/tk.html
 
-[tkinter]: https://docs.python.org/3/library/tk.html
+[tkinter]: https://wiki.python.org/moin/TkInter
