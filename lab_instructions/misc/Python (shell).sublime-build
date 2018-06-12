@@ -1,0 +1,15 @@
+{
+    "selector": "source.python",
+    "working_dir": "$file_dir",
+    "windows": {
+        "shell_cmd": "start cmd /c \"python $file_name & pause\""
+    },
+    "linux": {
+        "shell_cmd": "gnome-terminal -- bash -c \"python $file_name; echo Press enter to exit... & read\""
+        // Change gnome-terminal to your favorite one
+    },
+    "osx": {
+        "shell_cmd": "open -a Terminal.app -- bash -c \"python $file_name; echo Press enter to exit... & read\""
+        // Untested, please report any issues
+    }
+}
