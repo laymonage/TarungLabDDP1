@@ -50,95 +50,95 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>01.</td>
             <td>Pengenalan ke IDLE</td>
-            <td><a href="lab/01/lab01_a.md">• Soal</a></td>
+            <td><a href="lab/01/lab01_a.md">•&nbsp;Soal</a></td>
             <td>
-                <a href="lab/01/lab01_b_d.md#pertarungan-1">• Soal</a>
+                <a href="lab/01/lab01_b_d.md#pertarungan-1">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/01/lab01_b_d_s1.py">• Solusi</a>
+                <a href="lab/01/lab01_b_d_s1.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/01/lab01_b_d.md#pertarungan-1">• Soal</a>
+                <a href="lab/01/lab01_b_d.md#pertarungan-1">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/01/lab01_b_d_s1.py">• Solusi</a>
+                <a href="lab/01/lab01_b_d_s1.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/01/lab01_f.md">• Soal</a>
+                <a href="lab/01/lab01_f.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/01/lab01_f.py">• Solusi</a>
+                <a href="lab/01/lab01_f.py">•&nbsp;Solusi</a>
             </td>
         </tr>
         <tr>
             <td>02.</td>
             <td>Variabel, Tipe Data, dan Operator</td>
-            <td><a href="lab/02/lab02_a.md">• Soal</a></td>
+            <td><a href="lab/02/lab02_a.md">•&nbsp;Soal</a></td>
             <td>
-                <a href="lab/01/lab01_b_d.md#pertarungan-2">• Soal</a>
+                <a href="lab/01/lab01_b_d.md#pertarungan-2">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/01/lab01_b_d_s2.py">• Solusi</a>
+                <a href="lab/01/lab01_b_d_s2.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/01/lab01_b_d.md#pertarungan-2">• Soal</a>
+                <a href="lab/01/lab01_b_d.md#pertarungan-2">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/01/lab01_b_d_s2.py">• Solusi</a>
+                <a href="lab/01/lab01_b_d_s2.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/02/lab02_f.md">• Soal</a>
+                <a href="lab/02/lab02_f.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/02/lab02_f_s1.py">• Solusi 1</a>
+                <a href="lab/02/lab02_f_s1.py">•&nbsp;Solusi&nbsp;1</a>
                 <br>
-                <a href="lab/02/lab02_f_s2.py">• Solusi 2</a>
+                <a href="lab/02/lab02_f_s2.py">•&nbsp;Solusi&nbsp;2</a>
             </td>
         </tr>
         <tr>
             <td>03.</td>
             <td>Sistem Bilangan, Percabangan, dan Perulangan</td>
-            <td><a href="lab/03/lab03_a.md">• Soal</a></td>
+            <td><a href="lab/03/lab03_a.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/02/lab02_d.md">• Soal</a>
+                <a href="lab/02/lab02_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/02/lab02_d.py">• Solusi</a>
+                <a href="lab/02/lab02_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/03/lab03_f.md">• Soal</a>
+                <a href="lab/03/lab03_f.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/03/lab03_f.py">• Solusi</a>
+                <a href="lab/03/lab03_f.py">•&nbsp;Solusi</a>
             </td>
         </tr>
         <tr>
             <td>04.</td>
             <td>String dan Slicing</td>
-            <td><a href="lab/04/lab04_a.md">• Soal</a></td>
+            <td><a href="lab/04/lab04_a.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/03/lab03_d.md">• Soal</a>
+                <a href="lab/03/lab03_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/03/lab03_d.py">• Solusi</a>
+                <a href="lab/03/lab03_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/04/lab04_f.md">• Soal</a>
+                <a href="lab/04/lab04_f.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/04/lab04_f.py">• Solusi</a>
+                <a href="lab/04/lab04_f.py">•&nbsp;Solusi</a>
             </td>
         </tr>
         <tr>
             <td>05.</td>
             <td>File dan Exception</td>
-            <td><a href="lab/05/lab05_a.md">• Soal</a></td>
+            <td><a href="lab/05/lab05_a.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/04/lab04_d.md">• Soal</a>
+                <a href="lab/04/lab04_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/04/lab04_d.py">• Solusi</a>
+                <a href="lab/04/lab04_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
@@ -146,16 +146,16 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>06.</td>
             <td>Fungsi</td>
-            <td><a href="lab/06/lab06_a.md">• Soal</a></td>
-            <td><a href="lab/05/lab05_b_d.md">• Soal</a>
+            <td><a href="lab/06/lab06_a.md">•&nbsp;Soal</a></td>
+            <td><a href="lab/05/lab05_b_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/05/lab05_b_d.py">• Solusi</a>
+                <a href="lab/05/lab05_b_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/05/lab05_b_d.md">• Soal</a>
+                <a href="lab/05/lab05_b_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/05/lab05_b_d.py">• Solusi</a>
+                <a href="lab/05/lab05_b_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
@@ -163,13 +163,13 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>07.</td>
             <td>Set dan Dictionary</td>
-            <td><a href="lab/07/lab07_a.md">• Soal</a></td>
+            <td><a href="lab/07/lab07_a.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/06/lab06_d.md">• Soal</a>
+                <a href="lab/06/lab06_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/06/lab06_d.py">• Solusi</a>
+                <a href="lab/06/lab06_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
@@ -177,15 +177,15 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>08.</td>
             <td>Class dan Pemrograman Berorientasi Objek (OOP)</td>
-            <td><a href="lab/08/lab08_a.md">• Soal</a></td>
-            <td><a href="lab/07/lab07_b_d.md">• Soal</a>
+            <td><a href="lab/08/lab08_a.md">•&nbsp;Soal</a></td>
+            <td><a href="lab/07/lab07_b_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/07/lab07_b_d.py">• Solusi</a>
+                <a href="lab/07/lab07_b_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
-            <td><a href="lab/07/lab07_b_d.md">• Soal</a>
+            <td><a href="lab/07/lab07_b_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/07/lab07_b_d.py">• Solusi</a>
+                <a href="lab/07/lab07_b_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
@@ -193,13 +193,13 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>09.</td>
             <td>Inheritance</td>
-            <td><a href="lab/09/lab09_a.md">• Soal</a></td>
+            <td><a href="lab/09/lab09_a.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
-                <a href="lab/08/lab08_d.md">• Soal</a>
+                <a href="lab/08/lab08_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/08/lab08_d.py">• Solusi</a>
+                <a href="lab/08/lab08_d.py">•&nbsp;Solusi</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
@@ -207,19 +207,19 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>10.</td>
             <td>Rekursi</td>
-            <td><a href="lab/10/lab10_a.md">• Soal</a></td>
-            <td><a href="lab/09/lab09_b_d.md">• Soal</a>
+            <td><a href="lab/10/lab10_a.md">•&nbsp;Soal</a></td>
+            <td><a href="lab/09/lab09_b_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/09/lab09_b_d_s1.py">• Solusi 1</a>
+                <a href="lab/09/lab09_b_d_s1.py">•&nbsp;Solusi&nbsp;1</a>
                 <br>
-                <a href="lab/09/lab09_b_d_s2.py">• Solusi 2</a>
+                <a href="lab/09/lab09_b_d_s2.py">•&nbsp;Solusi&nbsp;2</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
-            <td><a href="lab/09/lab09_b_d.md">• Soal</a>
+            <td><a href="lab/09/lab09_b_d.md">•&nbsp;Soal</a>
                 <br>
-                <a href="lab/09/lab09_b_d_s1.py">• Solusi 1</a>
+                <a href="lab/09/lab09_b_d_s1.py">•&nbsp;Solusi&nbsp;1</a>
                 <br>
-                <a href="lab/09/lab09_b_d_s2.py">• Solusi 2</a>
+                <a href="lab/09/lab09_b_d_s2.py">•&nbsp;Solusi&nbsp;2</a>
             </td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
@@ -227,7 +227,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>11.</td>
             <td>Graphical User Interface (GUI)</td>
-            <td><a href="lab/11/lab11_a.md">• Soal</a></td>
+            <td><a href="lab/11/lab11_a.md">•&nbsp;Soal</a></td>
             <td>-</td>
             <td><sup><sub>todo</sub></sup></td>
             <td>-</td>
