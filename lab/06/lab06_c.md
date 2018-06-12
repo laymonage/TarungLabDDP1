@@ -112,4 +112,4 @@ Simpanlah program kalian dengan format **Nama_NPM.py**
 ---
 
 Diambil dari `lab_6_Senin.pdf` (Tutorial Lab 6 DDP1 C
-\-- 2 Oktober 2017)
+-- 2 Oktober 2017)

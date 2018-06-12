@@ -13,14 +13,14 @@ Benny memberikan spesifikasi enkripsi pesan tersebut sebagai berikut :
 
 - Pesan tersebut memiliki key yang bernilai K
 
-- Lalu pesan yang diterima di slice setiap K huruf\
-  Contoh : “ayaskanaisafmoklsnadbayajaleddrap” dengan key bernilai 4\
+- Lalu pesan yang diterima di slice setiap K huruf  
+  Contoh : “ayaskanaisafmoklsnadbayajaleddrap” dengan key bernilai 4  
   ayas | kana | isaf | mokl | snad | baya | jale | ddra | p
 
-- Setelah itu pesan yang telah di slice setiap K huruf, dibalik per kelompok\
+- Setelah itu pesan yang telah di slice setiap K huruf, dibalik per kelompok  
   Contoh : saya | anak | fasi | lkom | dans | ayab | elaj | ardd | p
 
-- Semua string yang telah dibalik, selanjutnya digabung\
+- Semua string yang telah dibalik, selanjutnya digabung  
   Dalam contoh ini, hasilnya adalah “sayaanakfasilkomdansayabelajarddp”
   
 #### Contoh Input
@@ -77,4 +77,4 @@ sebelumnya sudah selesai.
 ---
 
 Diambil dari `Lab 4 Senin.pdf` (Tutorial Lab 4 DDP1 C
-\-- 18 September 2017)
+-- 18 September 2017)

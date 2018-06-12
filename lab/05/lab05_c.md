@@ -82,4 +82,4 @@ adapun contoh isi dari file tersebut :
 ---
 
 Diambil dari `Soal Tutorial Lab 5 - Kelas C.pdf` (Tutorial Lab 5 DDP1 C
-\-- 25 September 2017)
+-- 25 September 2017)

@@ -18,8 +18,8 @@ mengerjakan tugasnya dengan lebih cepat, dengan kriteria sebagai berikut:
 - Programnya akan menerima input angka serta basisnya (2/8/16) dan mengubahnya
   ke dalam bentuk desimal (basis 10).
 
-- Input memiliki format:\
-  **\[basis awal]\[angkanya]**\
+- Input memiliki format:  
+  **`[basis awal]` `[angkanya]`**  
   Contoh: ```hexal A10```
   
   Format basis awal: **binary**, **octal**, atau **hexal** (basis 2, 8, atau 16)
