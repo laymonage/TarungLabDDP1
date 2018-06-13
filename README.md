@@ -49,13 +49,13 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
         <tr>
             <td>01.</td>
             <td>Pengenalan ke IDLE</td>
-            <td><a href="lab/01/lab01_a.md">•&nbsp;Soal</a></td>
+            <td><a href="lab/01/lab01_a_c.md">•&nbsp;Soal</a></td>
             <td>
                 <a href="lab/01/lab01_b_d.md#pertarungan-1">•&nbsp;Soal</a>
                 <br>
                 <a href="lab/01/lab01_b_d_s1.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/01/lab01_a_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
                 <a href="lab/01/lab01_f.md">•&nbsp;Soal</a>
@@ -72,7 +72,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/01/lab01_b_d_s2.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/02/lab02_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
                 <a href="lab/02/lab02_f.md">•&nbsp;Soal</a>
@@ -91,7 +91,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/02/lab02_b_d.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/03/lab03_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
                 <a href="lab/03/lab03_f.md">•&nbsp;Soal</a>
@@ -108,7 +108,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/03/lab03_b_d.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/04/lab04_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td>
                 <a href="lab/04/lab04_f.md">•&nbsp;Soal</a>
@@ -125,7 +125,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/04/lab04_b_d.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/05/lab05_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
         </tr>
@@ -137,7 +137,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/05/lab05_b_d.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/06/lab06_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
         </tr>
@@ -150,7 +150,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/06/lab06_b_d.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/07/lab07_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
         </tr>
@@ -162,7 +162,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/07/lab07_b_d.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/08/lab08_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
         </tr>
@@ -175,7 +175,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/08/lab08_b_d.py">•&nbsp;Solusi</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/09/lab09_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
         </tr>
@@ -189,7 +189,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
                 <br>
                 <a href="lab/09/lab09_b_d_s2.py">•&nbsp;Solusi&nbsp;2</a>
             </td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/10/lab10_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
         </tr>
@@ -198,7 +198,7 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
             <td>Graphical User Interface (GUI)</td>
             <td><a href="lab/11/lab11_a.md">•&nbsp;Soal</a></td>
             <td>-</td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td><a href="lab/11/lab11_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
             <td><sup><sub>todo</sub></sup></td>
         </tr>
