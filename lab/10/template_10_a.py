@@ -2,18 +2,16 @@
 Template untuk solusi Lab 10 kelas A.
 '''
 
+'''
 def palindrom(kata):
-    '''
-    TODO : implementasi fungsi palindrom untuk menyelesaikan soal palindrom
-    '''
+    # TODO : implementasi fungsi palindrom untuk menyelesaikan soal palindrom
     pass
+
 
 def checkActiveAmoeba(hari_ke, amoeba_aktif):
-    '''
-    TODO : implementasi fungsi ini untuk menyelesaikan soal Amoeba
-    '''
+    # TODO : implementasi fungsi ini untuk menyelesaikan soal Amoeba
     pass
-
+'''
 
 kataPalindrom = input("Masukkan kata : ")
 # TODO : cetak keluaran sesuai permintaan soal

@@ -1,45 +1,52 @@
+'''
+Template untuk solusi Lab 07 kelas C.
+'''
+
 def main():
-    matkul = #buat sebuah dictionary
+    '''
+    Main program.
+    '''
+    # matkul = {} # Buat sebuah dictionary
 
-    while #buat agar meminta input terus :
-        masukkan = input(">>> ")
+    while True:
+        masukan = input(">>> ")
 
         ######
-        
-        #buat agar program berhenti saat masukkan adalah "selesai"
+
+        # Buat agar program berhenti saat masukan adalah "selesai"
 
         ######
 
-        masukkan_split = masukkan.split(" ")
+        masukan_split = masukan.split(" ")
 
-        if (masukkan_split[0] == "tambah"):
-            nama_matkul = masukkan_split[1]
-            npm_semua = masukkan_split[2:]
+        if masukan_split[0] == "tambah":
+            # nama_matkul = masukan_split[1]
+            # npm_semua = masukan_split[2:]
 
-            # buat sebuah set untuk menampung NPM-NPM diatas
-            # masukkan ke dictionary yang telah dibuat diatas
+            # Buat sebuah set untuk menampung NPM-NPM diatas
+            # Masukan ke dictionary yang telah dibuat diatas
 
-            print(masukkan_split[1],"Berhasil Ditambahkan !")
+            print(masukan_split[1], "berhasil ditambahkan!")
 
-        # Gunakan method yang dimiliki set untuk melakukan 3 operasi di bawah ini
-        elif (masukkan_split[0] == "gabungan"):
+        # Gunakan method yang dimiliki set
+        # untuk melakukan 3 operasi di bawah ini
+        elif masukan_split[0] == "gabungan":
+            pass
 
+        elif masukan_split[0] == "pengambil":
+            pass
 
-        elif (masukkan_split[0] == "pengambil"):
-
-
-        elif(masukkan_split[0] == "hanya"):
-
+        elif masukan_split[0] == "hanya":
+            pass
 
         # ------------------------------------------------------------
-        elif (masukkan_split[0] == "cetak"):
+        elif masukan_split[0] == "cetak":
+            pass
 
             # Lakukan selection, apakah cetak sebuah matkul, atau semuanya
             # dan lakukan operasi print sesuai format
-            
 
         else:
-            print("Perintah salah !")
-
+            print("Perintah salah!")
 
 main()
