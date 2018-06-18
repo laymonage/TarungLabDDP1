@@ -127,7 +127,9 @@ Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
             </td>
             <td><a href="lab/05/lab05_c.md">•&nbsp;Soal</a></td>
             <td><sup><sub>todo</sub></sup></td>
-            <td><sup><sub>todo</sub></sup></td>
+            <td>
+                <a href="lab/05/lab05_f.md">•&nbsp;Soal</a>
+            </td>
         </tr>
         <tr>
             <td>06.</td>
