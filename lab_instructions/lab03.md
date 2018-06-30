@@ -164,7 +164,7 @@ a = 10
 b = 10
 if a < b:
     a += b
-elif a < b:
+elif a > b:
     a *= 3
 else:
     a *= b
