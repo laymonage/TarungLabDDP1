@@ -98,9 +98,12 @@ silakan ikuti petunjuk instalasi berikut.
    `User`.
 
 6. Buka berkas [**`Python (shell).sublime-build`**][sublime build], klik kanan
-   pada tombol `Raw`, klik `Save link as...`, arahkan ke direktori `User` tadi,
-   kemudian klik `Save`. Bisa juga dengan menyimpannya di direktori sementara,
-   kemudian menyalinnya ke direktori `User` tadi.
+   pada tombol `Raw`, klik `Save link as...` (bisa juga dengan klik tombol
+   `Raw`, kemudian klik kanan dan klik `Save as...`), arahkan ke direktori
+   `User` tadi, kemudian klik `Save`. Bisa juga dengan menyimpannya di
+   direktori sementara, kemudian menyalinnya ke direktori `User` tadi.  
+   **Pastikan berkas yang disimpan memiliki ekstensi `.sublime-build`,
+   bukan `.sublime-build.txt` atau yang lainnya.**
 
 7. Untuk menjalankan kode Python, tekan
    <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>, pilih `Python (shell)`.
