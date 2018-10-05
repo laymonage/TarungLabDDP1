@@ -36,7 +36,7 @@ Operasi yang digunakan pada masukan terdiri dari beberapa jenis, antara lain:
 
 - **MINUS** :
   Program akan meminta input nilai N dan M. Operasi ini berfungsi untuk
-  menjumlahkan N dengan M. Jika N - M bernilai negatif, maka output yang
+  mengurangi N sejumlah M. Jika N - M bernilai negatif, maka output yang
   dikeluarkan adalah "Error!"
 
 - **CHECKPRIME** :
