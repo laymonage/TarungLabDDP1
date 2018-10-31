@@ -299,7 +299,7 @@ biasanya diterapkan prinsip-prinsip berikut:
 - ***inheritance***: membuat objek baru dengan mewarisi karakteristik objek
   yang sudah ada.
 - ***polymorphism***: memungkinkan suatu pesan dikirim ke sembarang objek dan
-  menjadikan respons atas pesan tersebtu disesuaikan dengan tipe objek yang
+  menjadikan respons atas pesan tersebut disesuaikan dengan tipe objek yang
   dikirimi.
 
 Kalian akan mempelajari lebih lanjut mengenai prinsip-prinsip di atas dalam
